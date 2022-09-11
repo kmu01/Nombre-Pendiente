@@ -4,4 +4,4 @@ Espero que sea igual de permisivo con nuestras pequeñas actividades como lo fue
 
 ---
 
-Llamado para unirme a la misión [Saludando al nuevo vecino](../../Saludar%20al%20nuevo%20vecino.md).
+Llamado para unirme a la misión [Saludando al nuevo vecino](/../../Saludar%20al%20nuevo%20vecino.md).
