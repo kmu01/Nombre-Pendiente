@@ -1,1 +1,0 @@
-[Kobold Sign Language School](../../Kmu/Kass/Kobold%20Sign%20Language%20School.md)
