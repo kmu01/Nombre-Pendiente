@@ -5,5 +5,3 @@ En una misivia de interés diplomático, luego de que uno de los forjados me tra
 ---
 
 Llamado para unirme al evento [Relaciones diplomáticas](../../!EVENTOS/Relaciones%20diplomáticas.md).
-
-[[Cambio de administración]]
