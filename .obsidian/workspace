@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Y1000/S1/Kmu/Kass/hola.md",
+            "file": "Y1000/S1/!EVENTOS/Saludar al nuevo vecino.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y1000/S1/Kmu/Kass/hola.md",
+                "file": "Y1000/S1/!EVENTOS/Saludar al nuevo vecino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y1000/S1/Kmu/Kass/hola.md",
+                "file": "Y1000/S1/!EVENTOS/Saludar al nuevo vecino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y1000/S1/Kmu/Kass/hola.md"
+                "file": "Y1000/S1/!EVENTOS/Saludar al nuevo vecino.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "8928e7235c205f03",
   "lastOpenFiles": [
-    "Y1000/S1/Kmu/Kass/Panchitos la secuela.md",
-    "Y1000/S1/Kmu/Kass/Panchos.md",
-    "Y1000/S1/Kmu/Kass/hola.md",
+    "Y1000/S1/Kmu/Kass/Branding.md",
+    "Y1000/S1/Kmu/Kass/Touch-Tone Telephone.md",
+    "Y1000/S1/Kmu/Kass/Kobold Sign Language School.md",
     "Y1000/S1/Varso/Puck/momento.md",
     "Año 1000/Temporada 1/Kmu/Kass/Panchos.md",
     "Año 1000/Temporada 1/Kmu/Kass/hola.md",
