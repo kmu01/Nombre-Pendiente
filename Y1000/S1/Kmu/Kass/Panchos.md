@@ -2,4 +2,5 @@ Se tira terribles panchitos
 
 ### ¿Dónde men?
 
-[Puck Momento](../a.md)
+[Tenedor](Y1000/S1/Varso/Puck/momento.md)
+
