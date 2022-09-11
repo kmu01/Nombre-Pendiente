@@ -2,3 +2,4 @@ Los soldados de Bonfuerte nos han informado que Marco Aurelio ha decidido irse a
 
 
 [Vatshana asiste invitación mediante](../Kaukel/Vatshana/Cambio%20de%20administración.md)
+
