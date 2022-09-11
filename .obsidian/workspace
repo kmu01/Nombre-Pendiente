@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "bb0b5b3b637c328d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8928e7235c205f03",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Año 1000/Temporada 1/Kmu/Kass/Panchos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aed0eb8290e12427",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fb2fdccb46a37ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fcd8054482eec30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "068e69826b129a8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b134344b02b2af67",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ba47542e68ab7b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3efd559b9051cf99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e0afabca2808ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Año 1000/Temporada 1/Kmu/Kass/Panchos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c593fdc6253f738",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Año 1000/Temporada 1/Kmu/Kass/Panchos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fbe1f8197327dc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c06e364159ec1e26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Año 1000/Temporada 1/Kmu/Kass/Panchos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8928e7235c205f03",
+  "lastOpenFiles": []
+}
