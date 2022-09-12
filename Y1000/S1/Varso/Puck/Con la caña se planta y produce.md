@@ -65,3 +65,9 @@ Con esta informacion y conociendo bien los recursos de la zona donde se encuentr
 
 Coste: 9 RP y 1 IP
 
+---
+
+Perfecto, asumo que vas a comenzar la plantación de caña también, mas como no tienen suficientes plantas no podrán construir un aserradero hasta la siguiente season.
+Necesito que me informen cómo van a multiplicar la caña.
+
+---
