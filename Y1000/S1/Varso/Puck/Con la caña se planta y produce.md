@@ -26,4 +26,7 @@ Okey. en ese caso
 Puck pilotando el avian ( te recuerdo que tengo prof en pilotar avion) le pide a boblin que le acompañe para realize  una localizacion y  mapa del rio anteriormente mencionado. 
 consulta, considerando que esta en el mismo exagono, cual es el coste?
 
+---
+
+El coste está especificado en [Brumm hace el avion](Brumm%20hace%20el%20avion.md) y es 2^(Número de casillas de distancia/4) = 2^(0) = 1
 
