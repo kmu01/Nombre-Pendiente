@@ -20,10 +20,14 @@ Compañeros de trabajo, viejos y jóvenes hacen notar su descontento levantando 
 
 ---
 
-—No tenemos caña, mucho menos madera —Respondo, tranquila y de mirada siempre robusta— y no tenemos comerciantes.
+—No tenemos caña, mucho menos madera —Respondo tranquila, de mirada siempre robusta y voz calmada, escondiendo la traición que sus palabras hácenme sufrir— y no tenemos comerciantes.
 
 «No tenemos bosques que talar. Solo tenemos piedra a nuestro alrededor y tendremos la suficiente en menos de medio año.
 
 »Tomé una decisión hace pocos meses: construimos granjas antes que canteras —Enumero ante los comunes— porque morir de hambre era más urgente. Lo hice porque me ha confiado en mi sabiduría para que los guíe, el frío arrasa en meses lo que el hambre hace en días.
 
-»Entiendo vuestras inquietudes —Recuperando el foco en el descontento—, querido Levi. Si cualquiera desea proyectar sus ideas, solo necesita gritar mi nombre para tener mi atención, pero ahora necesitamos materiales. La temporada, cuando la cantera esté terminada y las rocas lleguen camino abajo, tendremos asentamientos. Será la primera acción que tomemos, saben que pueden confiar en mi palabra. 
+»Entiendo vuestras inquietudes —Recuperando el foco en el descontento—, querido Levi. Si cualquiera desea proyectar sus ideas, solo necesita gritar mi nombre para tener mi atención, pero ahora necesitamos materiales. La temporada, cuando la cantera esté terminada y las rocas lleguen camino abajo, tendremos asentamientos. Será la primera acción que tomemos, saben que pueden confiar en mi palabra.
+
+Espero que estas palabras sean suficientes para calmar a la gente que a mi alrededor escucha. Aún y todo un malestar clama mi interior. ¿Es que acaso realmente no soy suficiente para liderarlos? ¿No me consideran una igual?
+
+Aunque esas no son las peores. No puedo evitar cuestionarme si son simplemente desagradecidos. Tal vez más que una líder querían una alguien para abuchear cuando deban afrontar malos tiempos.
