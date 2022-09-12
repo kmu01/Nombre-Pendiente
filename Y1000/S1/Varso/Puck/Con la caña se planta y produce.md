@@ -66,6 +66,9 @@ Con esta informacion y conociendo bien los recursos de la zona donde se encuentr
 Coste: 9 RP y 1 IP
 
 ---
+<<<<<<< HEAD
+Ahora si, plantamos la caña en el borde del rio. para que en la sigiente season se realize una zona de trabajo ahi 
+=======
 
 Perfecto, asumo que vas a comenzar la plantación de caña también, mas como no tienen suficientes plantas no podrán construir un aserradero hasta la siguiente season.
 Necesito que me informen cómo van a multiplicar la caña.
@@ -85,3 +88,4 @@ en las zonas aledañas a la nueva plantacion realizamos con barro y paja una peq
 ---
 
 Perfecto, considero que la forma de selección de los Warforged es simplemente preguntando. Concidero que este evento está terminado por la temporada.
+>>>>>>> origin/main
