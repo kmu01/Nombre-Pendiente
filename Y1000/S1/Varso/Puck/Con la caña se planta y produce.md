@@ -42,3 +42,7 @@ Te recuerdo de que el costo de exploración es de un punto de influencia, mas el
 ---
 
 Si, pago los 2 RP y el 1 punto de influencia.
+
+---
+
+Son 2 IP y un RP.
