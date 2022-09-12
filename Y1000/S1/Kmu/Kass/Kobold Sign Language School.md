@@ -19,7 +19,9 @@ También notás como, lo que antes era una sociedad totalmente desorganizada com
 
 ¿Me darías una aclaración de que significa el ultimo párrafo? thx.
 
+---
 
+Está comenzando a volverse una sociedad jerárquica. 
 
 
 
