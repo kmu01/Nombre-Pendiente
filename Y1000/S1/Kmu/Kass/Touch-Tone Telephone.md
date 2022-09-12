@@ -27,3 +27,6 @@ También esta señora, la cual se hace llamar Fae, te realiza un par de pregunta
 
 También te informa que este tipo de comunicación, a pesar de ser extremadamente útil, es insegura. Esto no es un problema generalmente para los Harpers, la organización a la que ella pertenece, mas puede ser un inconveniente para vos. Con esta razón en mente te propone un trato: "hay un grupo de personas al norte de tu posición que necesita ayuda, si pueden darles un lugar donde pasar la noche y mantenerlos con la panza llena, yo podría mover un par de hilos y tratar de hacerte llegar el remplazo en el que estamos trabajando o, en caso de que eso no te interese, enseñarte como producir el aparato con el que nos estamos comunicando"
 
+---
+
+
