@@ -24,6 +24,6 @@ Te recuerdo que todavía te falta identificar bien el río, y que en el evento t
 
 Okey. en ese caso 
 Puck pilotando el avian ( te recuerdo que tengo prof en pilotar avion) le pide a boblin que le acompañe para realize  una localizacion y  mapa del rio anteriormente mencionado. 
-consulta, considerando que esta en el mismo exagono, cual es el coste?=
+consulta, considerando que esta en el mismo exagono, cual es el coste?
 
 

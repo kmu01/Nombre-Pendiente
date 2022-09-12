@@ -3,3 +3,7 @@ Luego de una comunicación relativamente ¿agresiva? hacia el pueblo vecino, una
 ---
 
 [Vatshana se aproxima a paso tranquilo](../Kaukel/Vatshana/Aqui%20no%20reinarán%20máquinas.md).
+
+---
+Varso: Propongo resolver este evento por voz el viernes
+
