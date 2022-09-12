@@ -48,4 +48,14 @@ Si, pago los 2 RP y el 1 punto de influencia.
 Son 2 IP y un RP.
 
 ---
+<<<<<<< HEAD
 De acuerdo, lo pagare.
+=======
+De acuerdo, lo pago.
+
+--- 
+
+Desde las alturas lográs identificar el río del que estaba hablando Martín. Se puede observar claramente como el río se forma en las montañas, probablemente por la lluvia, no lográs identificar donde desaparece, pero su camino es hacia tierras Hafling.
+También notás como, a los lados del río, parece estar comenzando a crecer un pastizal verde y arbustos, la tierra no parece tan árida como Martín la describió. 
+Estás seguro de que con un poco de ingeniería Kobold y un par de buenas manos Warforged podrías redirigir el río o alizar sus orillas para lograr tus cometidos, aunque eso sí, sería gran cantidad de trabajo.
+No lográs sacarte de la cabeza de que parece haber algo raro con este río, ¿quzás sea que es demasiado recto?.
