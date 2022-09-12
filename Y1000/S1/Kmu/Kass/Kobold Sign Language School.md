@@ -23,13 +23,15 @@ También notás como, lo que antes era una sociedad totalmente desorganizada com
 
 Está comenzando a volverse una sociedad jerárquica. 
 
-
-
-
 ---
 
 Para preservar el discurso, Puck propone crear en el invertir recursos en añadir una biblioteca comunal en alguna de los edificios ya disponibles,  el cual su principal objetivo será preservar en papel las diferentes ideas de los ciudadanos de Puckonia, para esto le pide a Alexander que compre libros, tinta y una prensa, para así ponerlos a las manos de todos los warforged
 
 Requiero saber:
 coste de añadir esta biblioteca, la intencion no es tener un edificio completo ( ocupando una casilla) sino añadir una pequeña biblioteca que nos sirva por ahora, a futuro quizas se expanda
+
+---
+
+El coste de los libros y el centro para mantenerlos sería 1 RP, ya que todavía no hay producción de libros en la villa este costo podría repetirse en el tiempo.
+(podrían pasar 2 meses y quedarse sin libros o lugar para guardarlos, lo cual haría que necesitaran conseguir más, costando así RP)
 
