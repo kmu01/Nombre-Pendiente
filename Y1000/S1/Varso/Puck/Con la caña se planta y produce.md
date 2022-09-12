@@ -38,3 +38,7 @@ Lo pago, 1 coste de influencia, viajo junto a boblin, mapeando el rio,  ya que e
 
 Te recuerdo de que el costo de exploración es de un punto de influencia, mas el costo de utilizar el avión también incuye,especificado en [Brumm hace el avion](Brumm%20hace%20el%20avion.md), *requiere un punto de influencia para ordenarle a Boblin que utilice el avión, más un punto de recursos para el viaje.*.
 ¿aún así lo querés hacer?
+
+---
+
+Si, pago los 2 RP y el 1 punto de influencia.
