@@ -4,4 +4,4 @@ Con ese dinero, debería ser capaz de financiar nuestro proyecto de siembra en m
 
 ---
 
-Ordeno la construcción de un sitio de trabajo de montaña, una gran plantación escalonada que fetilizo con mi magia de druida, logrado así tener plantaciones fructíferas en plena montaña.
+Actividad de temporada: ordeno la construcción de un sitio de trabajo de montaña, una gran plantación escalonada que fertilizo con mi magia de druida, logrado así tener plantaciones fructíferas en plena montaña.
