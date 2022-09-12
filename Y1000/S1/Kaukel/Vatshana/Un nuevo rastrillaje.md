@@ -5,3 +5,7 @@ Tal vez podría dar una segunda ronda a nuestro alrededor, quizá alguna caída 
 ---
 
 Envío a Darek a investigar las montañas circundantes nuevamente, pero esta vez pido que se arrime un poco a las grietas en busca de ruido de agua. Si lo requiere, Banitari estará dispuesto a dar su ayuda. (Nota: IP a coordinar)
+
+---
+
+El costo de IP es 2^(Número de casillas de distancia), el miso que pagaste anteriormente para explorar los recursos.
