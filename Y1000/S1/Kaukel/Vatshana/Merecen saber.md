@@ -10,8 +10,20 @@ Hago un llamado general alguna de las mañanas más templadas para explicarles c
 
 ---
 
-> no sé como lo quieras manejar, pero acá va un intento
-
 Lográs reunir a todos los que te han seguido y en frente a las casas, te sorprende lo mucho que ha crecido tu grupo en tan poco tiempo, sin mucha demora, explicas el camino de tu misión.
+
 La mayoría escuchan tu plan sin hacer demasiados comentarios, todos saben lo que te has sacrificado y lo mucho que has intentado darle a todos lo necesario para sobrevivir, pero en el momento en el que hablás de que todavía faltaran meses antes de tener casas para todos notás como la situación se te escapa un poco de las manos.
-Compañeros de trabajo, viejos y jóvenes hacen notar su descontento levantando un pequeño bullicio y es entonces cuando, [Leví](https://pbs.twimg.com/media/EsZWPlnXAAASgfp.jpg:large),  con uno de sus hijos en brazos, te pregunta casi gritando, ¿Pensás que los niños y los viejos resistirán una temporada más bajo la lluvia?
+
+Compañeros de trabajo, viejos y jóvenes hacen notar su descontento levantando un pequeño bullicio y es entonces cuando, [Leví](https://pbs.twimg.com/media/EsZWPlnXAAASgfp.jpg:large),  con uno de sus hijos en brazos, te pregunta casi gritando: 
+
+—¿Pensás que los niños y los viejos resistirán una temporada más bajo la lluvia? 
+
+---
+
+—No tenemos caña, mucho menos madera —Respondo, tranquila y de mirada siempre robusta— y no tenemos comerciantes.
+
+«No tenemos bosques que talar. Solo tenemos piedra a nuestro alrededor y tendremos la suficiente en menos de medio año.
+
+»Tomé una decisión hace pocos meses: construimos granjas antes que canteras —Enumero ante los comunes— porque morir de hambre era más urgente. Lo hice porque me ha confiado en mi sabiduría para que los guíe, el frío arrasa en meses lo que el hambre hace en días.
+
+»Entiendo vuestras inquietudes —Recuperando el foco en el descontento—, querido Levi. Si cualquiera desea proyectar sus ideas, solo necesita gritar mi nombre para tener mi atención, pero ahora necesitamos materiales. La temporada, cuando la cantera esté terminada y las rocas lleguen camino abajo, tendremos asentamientos. Será la primera acción que tomemos, saben que pueden confiar en mi palabra. 
