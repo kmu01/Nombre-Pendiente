@@ -1,0 +1,1 @@
+Kurr va a usar sus acciones de turno para practicar la vocalizacion y se dedicara a acostumbrearse a su nuevo cuerpo de metal. y tratara de reforzar sus  lazos con sus nuevos hermanos de metal.
