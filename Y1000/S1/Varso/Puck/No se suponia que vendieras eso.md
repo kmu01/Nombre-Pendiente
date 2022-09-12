@@ -19,6 +19,7 @@ Además, te pide que no dejes que se esparzan rumores, que el cuándo vuelva ya 
 
 Termina la conversación poniendo lo poco que queda de tesoro en su mochila y mientras va subiendo a su carreta se despide diciendo: "Voy a buscar a tus amigos, nos vemos en dos semanas".
 
+---
 
-
-
+El dragón antes de permitir que se vaya le pone su mano al hombro y lo detiene, dando un segundo de silencio antes 
+—Tengo una idea mejor, yo te acompañaré, Vamos. 
