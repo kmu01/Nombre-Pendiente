@@ -48,3 +48,7 @@ Por tirar un par de carpas no hay problema, el tema es la comida.
 ---
 
 ¿le vas a decir que sí entonces?
+
+---
+
+Claro.
