@@ -29,3 +29,8 @@ También te informa que este tipo de comunicación, a pesar de ser extremadament
 
 ---
 
+Respecto a la primer pregunta, le informo que la nueva consejera del reino no tiene la autoridad ni el deber de revelar su origen. Esta autoridad solo puede ser supercedida por una situación que es actualmente imposible de ocurrir debido a que todavía no hemos construido una taberna.
+
+En cuanto al trato, me gustaría saber mas o menos a cuanta gente se esta refiriendo, pero seguramente lo acepte.
+
+Y posiblemente después de aceptar verifique si tenemos esa comida.
