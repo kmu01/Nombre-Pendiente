@@ -78,6 +78,3 @@ Es caña, la dejamos crecer tranquila, y en la sigiente season cuando este lo su
 
 Me gustaría que especificaran si hacen algún tipo de barrera o guardia para las plantas.
 
----
-
-![Así](https://wildercraft.net/uploads/images/210/15d885948685ba_gmkjqopehlfni.png)
