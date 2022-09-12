@@ -30,3 +30,6 @@ consulta, considerando que esta en el mismo exagono, cual es el coste?
 
 El coste está especificado en [Brumm hace el avion](Brumm%20hace%20el%20avion.md) y es 2^(Número de casillas de distancia/4) = 2^(0) = 1
 
+---
+
+Lo pago, 1 coste de influencia, viajo junto a boblin, mapeando el rio,  ya que estamos viendo bien esa zona. 
