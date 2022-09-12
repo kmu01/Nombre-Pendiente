@@ -78,3 +78,7 @@ Es caña, la dejamos crecer tranquila, y en la sigiente season cuando este lo su
 
 Me gustaría que especificaran si hacen algún tipo de barrera o guardia para las plantas.
 
+---
+
+en las zonas aledañas a la nueva plantacion realizamos con barro y paja una pequeña cabaña donde le pagamos a unos warforgeds para que vigilen la seguridad de la nueva plantacion, gasto 1 RP en realizar esto 
+
