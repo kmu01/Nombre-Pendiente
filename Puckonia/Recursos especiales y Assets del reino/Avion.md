@@ -7,3 +7,6 @@ El avión, al explorar desde el cielo, solo puede notar estructuras o informaci�
 También es de notar que el avión es un objeto extremadamente precioso, esto hace que (aunque puede ser muy sigiloso, especialmente por encima de las nubes) sea muy peligroso enviarlo sin supervisión y apoyo. 
 
 Además de esto, Boblin es muy buen haciendo mapas, mas no los puede hacer mientras conduce, necesitará de un copiloto o un cartógrafo que lo ayude a realizar cualquier misión.
+
+Si Puck sin la intervencion de boblin es requerido pagarle al pelotudo del goblin 1 IP 2 RP  y luxory
+

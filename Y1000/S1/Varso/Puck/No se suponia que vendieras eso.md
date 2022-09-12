@@ -22,4 +22,5 @@ Termina la conversación poniendo lo poco que queda de tesoro en su mochila y mi
 ---
 
 El dragón antes de permitir que se vaya le pone su mano al hombro y lo detiene, dando un segundo de silencio antes 
-—Tengo una idea mejor, yo te acompañaré, Vamos. 
+—Tengo una idea mejor, no viajes, encárgate de este problema en el pueblo, yo me encargo de la comida. 
+
