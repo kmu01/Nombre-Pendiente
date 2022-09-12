@@ -44,3 +44,7 @@ No sabe el número exacto, pero es un grupo lo suficientemente grande como para 
 ---
 
 Por tirar un par de carpas no hay problema, el tema es la comida.
+
+---
+
+¿le vas a decir que sí entonces?
