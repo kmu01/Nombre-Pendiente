@@ -65,3 +65,5 @@ Con esta informacion y conociendo bien los recursos de la zona donde se encuentr
 
 Coste: 9 RP y 1 IP
 
+---
+Ahora si, plantamos la caña en el borde del rio. para que en la sigiente season se realize una zona de trabajo ahi 
