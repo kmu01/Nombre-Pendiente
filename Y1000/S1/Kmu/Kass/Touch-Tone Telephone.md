@@ -52,3 +52,7 @@ Por tirar un par de carpas no hay problema, el tema es la comida.
 ---
 
 Claro.
+
+---
+
+Perfecto, considero el evento terminado, si querés realizar el evento en el siguiente turno creá el evento luego de que roliemos lo de strad y linkealo con este evento.
