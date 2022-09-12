@@ -24,3 +24,8 @@ Termina la conversación poniendo lo poco que queda de tesoro en su mochila y mi
 El dragón antes de permitir que se vaya le pone su mano al hombro y lo detiene, dando un segundo de silencio antes 
 —Tengo una idea mejor, no viajes, encárgate de este problema en el pueblo, yo me encargo de la comida. 
 
+---
+
+Excelente, Alexander hablará con los Warforged y llegará a la conclusión de que es necesario un juicio justo.
+
+Te pedirá que hables con Kass para que sirva de juez imparcial.
