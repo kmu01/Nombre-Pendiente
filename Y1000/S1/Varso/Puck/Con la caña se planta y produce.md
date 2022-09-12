@@ -73,3 +73,7 @@ Necesito que me informen cómo van a multiplicar la caña.
 ---
 
 Es caña, la dejamos crecer tranquila, y en la sigiente season cuando este lo suficientente crecida empezamos la cosecha.
+
+---
+
+Me gustaría que especificaran si hacen algún tipo de barrera o guardia para las plantas.
