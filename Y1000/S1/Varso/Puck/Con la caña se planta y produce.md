@@ -48,4 +48,4 @@ Si, pago los 2 RP y el 1 punto de influencia.
 Son 2 IP y un RP.
 
 ---
-De acuerdo, lo 
+De acuerdo, lo pago.
