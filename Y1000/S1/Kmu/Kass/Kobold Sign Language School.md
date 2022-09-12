@@ -24,7 +24,5 @@ También notás como, lo que antes era una sociedad totalmente desorganizada com
 Está comenzando a volverse una sociedad jerárquica. 
 
 
-Sigma
-
 
 

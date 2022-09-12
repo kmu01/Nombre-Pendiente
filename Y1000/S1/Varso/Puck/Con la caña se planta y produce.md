@@ -7,3 +7,13 @@ Falta tener una fuente de agua para podér hacer eso.
 ---
 
 Kmu metido aca, rios solo hay al lado de los halflings, posiblemente quizo decir el infinito pantano que tenemos a 1 o 2 bloques.
+
+---
+
+Noup,  estoy usando el reconocimiento que Martir realizo de las tierras cercanas, el descubrio esto:
+*A pesar de esto, Martín logró identificar un río hacia el sur, es el mismo que lleva a tierras Hafling, y debe de nacer desde algún lado ¿no?
+El río identificado está a 15 millas hacia el sur, su agua parece pura y dulce.*
+
+Usando esa informacion, y considerando que 15 millas siguen dentro del exagono, vamos a plantar en ese rio localizado. 
+
+
