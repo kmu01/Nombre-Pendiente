@@ -26,3 +26,10 @@ Está comenzando a volverse una sociedad jerárquica.
 
 
 
+---
+
+Para preservar el discurso, Puck propone crear en el invertir recursos en añadir una biblioteca comunal en alguna de los edificios ya disponibles,  el cual su principal objetivo será preservar en papel las diferentes ideas de los ciudadanos de Puckonia, para esto le pide a Alexander que compre libros, tinta y una prensa, para así ponerlos a las manos de todos los warforged
+
+Requiero saber:
+coste de añadir esta biblioteca, la intencion no es tener un edificio completo ( ocupando una casilla) sino añadir una pequeña biblioteca que nos sirva por ahora, a futuro quizas se expanda
+

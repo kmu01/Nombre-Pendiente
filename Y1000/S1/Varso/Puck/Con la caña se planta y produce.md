@@ -20,3 +20,9 @@ Usando esa informacion, y considerando que 15 millas siguen dentro del exagono, 
 
 Te recuerdo que todavía te falta identificar bien el río, y que en el evento también decubriste que: *Además de esto, parece que los suelos al rededor de la ciudad no son demasiado cultivables, mas esto quizás sea por la falta de agua de la zona.*
 
+---
+
+Okey. en ese caso 
+Puck pilotando el avian ( te recuerdo que tengo prof en pilotar avion) le pide a boblin que le acompañe para realize  una localizacion y  mapa del rio anteriormente mencionado. 
+
+
