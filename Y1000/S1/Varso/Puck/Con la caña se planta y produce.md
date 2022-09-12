@@ -57,3 +57,11 @@ Desde las alturas lográs identificar el río del que estaba hablando Martín. S
 También notás como, a los lados del río, parece estar comenzando a crecer un pastizal verde y arbustos, la tierra no parece tan árida como Martín la describió. 
 Estás seguro de que con un poco de ingeniería Kobold y un par de buenas manos Warforged podrías redirigir el río o alizar sus orillas para lograr tus cometidos, aunque eso sí, sería gran cantidad de trabajo.
 No lográs sacarte de la cabeza de que parece haber algo raro con este río, ¿quzás sea que es demasiado recto?.
+
+--- 
+
+Con esta informacion y conociendo bien los recursos de la zona donde se encuentra nuestro asentamiento, puck inicia los planos y trabajo necesario para  terminar de reconocer la zona y reclamarla para el futuro reino
+**Reclamo el hexagono de nuestra ciudad como nuestro** (Esto teoricamente ya lo deberiamos de haber hecho, pero como nunca explroamos ni reconocimos nuestro hexagono, ni pagamos el coste, no lo habiamos hecho. con el coste pagado, este hexagono es nuestro y lo cuento como controlado)
+
+Coste: 9 RP y 1 IP
+
