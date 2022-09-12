@@ -85,3 +85,4 @@ en las zonas aledañas a la nueva plantacion realizamos con barro y paja una peq
 ---
 
 Perfecto, considero que la forma de selección de los Warforged es simplemente preguntando. Concidero que este evento está terminado por la temporada.
+
