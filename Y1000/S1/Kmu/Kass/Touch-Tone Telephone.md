@@ -40,3 +40,7 @@ Y posiblemente después de aceptar verifique si tenemos esa comida.
 Parece un poco reticente pero encantada por tus respuestas.
 
 No sabe el número exacto, pero es un grupo lo suficientemente grande como para no entrar en un par de chozas, pero lo suficientemente pequeño y desorganizado como para no construir las chozas que les faltan, deben de ser entre 30 y 200 personas.
+
+---
+
+Por tirar un par de carpas no hay problema, el tema es la comida.
