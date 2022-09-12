@@ -30,4 +30,4 @@ Compañeros de trabajo, viejos y jóvenes hacen notar su descontento levantando 
 
 Espero que estas palabras sean suficientes para calmar a la gente que a mi alrededor escucha. Aún y todo un malestar clama en mi interior. ¿Es que acaso realmente no soy suficiente para liderarlos? ¿No me consideran una igual?
 
-Aunque esas no son las peores suposiciones. No puedo evitar cuestionarme si son simplemente desagradecidos. Tal vez más que una líder querían una alguien para abuchear cuando deban afrontar malos tiempos.
+Aunque esas no son las peores suposiciones... No puedo evitar cuestionarme si son simplemente desagradecidos. Tal vez más que una líder querían una alguien para abuchear cuando deban afrontar malos tiempos.
