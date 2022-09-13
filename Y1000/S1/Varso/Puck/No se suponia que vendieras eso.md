@@ -31,7 +31,7 @@ Excelente, Alexander hablará con los Warforged y llegará a la conclusión de q
 Te pedirá que hables con Kass para que sirva de juez imparcial.
 
 ---
-Escuchando el alboroto causado por su presencia, Puck le comenta a Alexander sobre la ausencia de kass y la opinión que la gente piensa sobre él en el pueblo, le sugiere que se vaya a vivir en la granja de bambú, una zona apartada donde la gente seguramente no le molestara, hasta que Kass vuelva y se encargué de su asunto
+Escuchando el alboroto causado por su presencia, Puck le comenta a Alexander sobre la ausencia de kass y la opinión que la gente piensa sobre él en el pueblo, le sugiere que se vaya a vivir en la granja de bambú, una zona apartada donde la gente seguramente no le molestara, hasta que Kass vuelva y se encargue de su asunto
 [Con la caña se planta y produce](Con%20la%20caña%20se%20planta%20y%20produce.md)
 
 --- 
