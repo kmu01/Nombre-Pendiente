@@ -6,6 +6,9 @@
 2. SEGUNDO, SOLICITO EL EQUIVALENTE A 1RP + EL PRECIO DE DOS MULAS. VOY A HABLAR CON LOS HALFLINGS Y ARREGLAR LO DEL WARFORGED Y LA COMIDA. 
 
 3. Y MÁS VALE QUE NO SE ME NIEGUE ESE DINERO, PORQUE LO VOY A OBTENER DE UNA FORMA U OTRA, LO ÚNICO QUE VA A CAMBIAR ES LA FECHA DEL EXAMEN.
+	1. Una vez enterado Puck, suspira con calma y piensa para si mismo 
+		-Que suerte que no me tengo que encargar yo de esto.
+		-Aqui tienes tu dinero, usalo como te parezca conveniente, recuerda que nuestra comida depende de esto
 
 4. ¿TERCERO? TODOS A LOS QUE NO LES HAYA TOCADO TRADUCIR EN EL JUICIO NO SE SALVAN, ME ESCRIBEN UN ENSAYO DE CUÁLES CREEN QUE SON BUENAS CUALIDADES PARA UN LÍDER, Y SI CADA UNO DE ELLOS SERIA O NO UNO Y POR QUÉ. SI NO SABEN ESCRIBIR QUE ME LO DEJEN CLARO DE ANTEMANO.
 
@@ -13,4 +16,6 @@
 
 <sup><sup>Necesitamos una taberna lo antes posible.</sup></sup>  
 
+
 ---
+
