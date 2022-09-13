@@ -5,7 +5,7 @@
 
 2. SEGUNDO, SOLICITO EL EQUIVALENTE A 1RP + EL PRECIO DE DOS MULAS. VOY A HABLAR CON LOS HALFLINGS Y ARREGLAR LO DEL WARFORGED Y LA COMIDA. 
 	Y MÁS VALE QUE NO SE ME NIEGUE ESE DINERO, PORQUE LO VOY A OBTENER DE UNA FORMA U OTRA, LO ÚNICO QUE VA A CAMBIAR ES LA FECHA DEL EXAMEN.
-	2. Una vez enterado Puck, suspira con calma y piensa para si mismo 
+	1. Una vez enterado Puck, suspira con calma y piensa para si mismo 
 		-Que suerte que no me tengo que encargar yo de esto.
 		-Aqui tienes tu dinero, usalo como te parezca conveniente, recuerda que nuestra comida depende de esto
 
