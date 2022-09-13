@@ -32,7 +32,7 @@ Te pedirá que hables con Kass para que sirva de juez imparcial.
 
 ---
 
-Escuchando el alboroto causado por su presencia, Puck le comenta a Alexander sobre la ausencia de kass y la opinión que la gente piensa sobre él en el pueblo, le sugiere que se vaya a vivir en la granja de bambú, una zona apartada donde la gente seguramente no le molestara, hasta que Kass vuelva y se encargue de su asunto
+Escuchando el alboroto causado por su presencia, Puck le comenta a Alexander sobre la ausencia de Kass y la opinión que la gente piensa sobre él en el pueblo, le sugiere que se vaya a vivir en la granja de bambú, una zona apartada donde la gente seguramente no le molestara, hasta que Kass vuelva y se encargue de su asunto
 El warfoged que estaba viviendo ahi se le pide por favor que vuelva a su vieja casa, el dinero que le dimos se mantiene
 
 --- 
