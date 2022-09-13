@@ -1,4 +1,4 @@
-Kurr va a usar sus acciones de turno para practicar la vocalización y se dedicará a acostumbrarse a su nuevo cuerpo de metal. Y tratará de reforzar sus lazos con sus nuevos hermanos de metal.
+[Kurr](Kurr.md) va a usar sus acciones de turno para practicar la vocalización y se dedicará a acostumbrarse a su nuevo cuerpo de metal. Y tratará de reforzar sus lazos con sus nuevos hermanos de metal.
 
 ---
 

@@ -2,9 +2,11 @@ Los soldados de Bonfuerte nos han informado que Marco Aurelio ha decidido irse a
 
 ---
 
-[Kass](../Kmu/Kass) va a estar presente.
+[Kass](../Kmu/Kass/Kass) va a estar presente.
 
 [Vatshana asiste invitación mediante](../Kaukel/Vatshana/Cambio%20de%20administración.md).
 
 [Puck](../Varso/Puck/Puck.md) se presentara ante su nuevo vecino.
+
+[Kurr](../Cwolf/Kurr/Kurr.md) va ir a robar plantas
 

@@ -1,4 +1,4 @@
-Aprovechando [Saludar al nuevo vecino](../../!EVENTOS/Saludar%20al%20nuevo%20vecino.md) Kurr va a tomar una muestra de los cultivos para hacer una replica de los mismos y poder plantar alimentos en las proxima temporada, para ello va a usar sus aplios conocimientos arcanos. y sus habilidades de "habla" para organizar a la armada de warforgeds en la mision de generarlos cultivos.
+Aprovechando [Saludar al nuevo vecino](../../!EVENTOS/Saludar%20al%20nuevo%20vecino.md) [Kurr](Kurr.md) va a tomar una muestra de los cultivos para hacer una réplica de los mismos y poder plantar alimentos en la próxima temporada, para ello va a usar sus aplios conocimientos arcanos. y sus habilidades de "habla" para organizar a la armada de [Warforgeds](../../../../Puckonia/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) en la mision de generarlos cultivos.
 
 ---
 
