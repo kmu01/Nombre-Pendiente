@@ -86,3 +86,4 @@ En las zonas aledañas a la nueva plantación realizamos con barro y paja una pe
 
 Perfecto, considero que la forma de selección de los [Warforged](../../../../Puckonia/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) es simplemente preguntando. Considero que este evento está terminado por la temporada.
 
+
