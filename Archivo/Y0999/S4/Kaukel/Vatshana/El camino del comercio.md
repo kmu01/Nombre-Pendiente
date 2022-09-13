@@ -6,4 +6,4 @@ Tal vez pedir un arancel para quienes pasan por aquí no sería una mala idea. Q
 
 ---
 
-Mi tesorero, Silvan, debería ser capaz de encargarse de la tarea de identificar rutas comerciales.
+Mi tesorero, [Silvan](../../../../../Y1000/S1/!EVENTOS/NPC´s/Silvan.md), debería ser capaz de encargarse de la tarea de identificar rutas comerciales.

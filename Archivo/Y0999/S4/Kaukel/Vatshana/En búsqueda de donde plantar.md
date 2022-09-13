@@ -6,4 +6,4 @@ Con mis facultades de druida, no sería complicado aumentar la fertilidad del su
 
 ---
 
-Me dedico personalmente junto a mi consejero y familiar Banitari. La meta es desarrollar una zona de trabajo de montañas pero con extracción de comida.
+Me dedico personalmente junto a mi consejero y familiar [Banitari](../../../../../Y1000/S1/!EVENTOS/NPC´s/Banitari.md). La meta es desarrollar una zona de trabajo de montañas pero con extracción de comida.
