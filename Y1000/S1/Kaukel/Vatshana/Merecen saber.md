@@ -30,16 +30,14 @@ Compañeros de trabajo, viejos y jóvenes hacen notar su descontento levantando 
 
 Espero que estas palabras sean suficientes para calmar a la gente que a mi alrededor escucha. Aún y todo un malestar clama en mi interior. ¿Es que acaso realmente no soy suficiente para liderarlos? ¿No me consideran una igual?
 
-<<<<<<< HEAD
 Aunque esas no son las peores suposiciones... No puedo evitar cuestionarme si son simplemente desagradecidos. Tal vez más que una líder querían una alguien para abuchear cuando deban afrontar malos tiempos.
-=======
+
 Aunque esas no son las peores suposiciones. No puedo evitar cuestionarme si son simplemente desagradecidos. Tal vez más que una líder querían una alguien para abuchear cuando deban afrontar malos tiempos.
 
 ---
 
-Tu tranquilidad, decisión y muestra de visión logran contentar a la multitud. Lográs terminar de explicar tus planes  y de organizar al vulgo. (+1 Economía)
+Tu tranquilidad, decisión y muestra de visión logran contentar a la multitud. Lográs terminar de explicar tus planes  y de organizar al vulgo (+1 Economía).
 
 Notás que hay un sentimiento de descontento generalizado, pero parece que es un descontento resignado, sabiendo que, aunque sea doloroso, es el mejor plan a seguir.
 
 Luego de la charla todos vuelven a sus labores diarias, todavía quedan horas de sol, y, por lo tanto, todavía queda mucho por hacer. 
->>>>>>> origin/main
