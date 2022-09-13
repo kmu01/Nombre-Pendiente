@@ -6,4 +6,5 @@ Luego de una comunicación relativamente ¿agresiva? hacia el pueblo vecino, una
 
 ---
 Varso: Propongo resolver este evento por voz el viernes
+[Puck](../Varso/Puck/Puck.md) y [Kurr](../../../Kurr.md) ¿va a asistir?
 
