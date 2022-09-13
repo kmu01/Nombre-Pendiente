@@ -13,3 +13,8 @@ Y MAS VALE QUE NO SE ME NIEGE ESE DINERO, PORQUE LO VOY A OBTENER DE UNA FORMA U
 
 <sup><sup>Necesitamos una taberna lo antes posible.</sup></sup>  
 
+
+---
+Una vez enterado Puck, suspira con calma y piensa para si mismo 
+-Que suerte que no me tengo que encargar yo de esto.
+-Aqui tienes tu dinero, usalo como te parezca conveniente, recuerda que nuestra comida depende de esto
