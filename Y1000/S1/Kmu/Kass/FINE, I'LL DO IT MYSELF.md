@@ -16,10 +16,7 @@
 
 
 ---
-<<<<<<< HEAD
+
 Una vez enterado Puck, suspira con calma y piensa para si mismo 
 -Que suerte que no me tengo que encargar yo de esto.
 -Aquí tienes tu dinero, úsalo como te parezca conveniente, recuerda que nuestra comida depende de esto.
-=======
-
->>>>>>> origin/main
