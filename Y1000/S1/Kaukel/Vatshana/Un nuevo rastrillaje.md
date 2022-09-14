@@ -8,11 +8,11 @@ Envío a [Darek](../../!EVENTOS/NPC´s/Darek.md) a investigar las montañas circ
 
 ---
 
-Las montañas son traicioneramente peligrosas, aun así, sabiendo lo que está en juego, Derek se arriesga nuevamente en ellas, quizás un poco más emocionado de lo que debería, ahora con la ayuda de Banitari.
+Las montañas son traicioneramente peligrosas, aun así, sabiendo lo que está en juego, [Darek](../../!EVENTOS/NPC´s/Darek.md) se arriesga nuevamente en ellas, quizás un poco más emocionado de lo que debería, ahora con la ayuda de [Banitari](../../!EVENTOS/NPC´s/Banitari.md).
 
-Dos días después vuelve al campamento Banitari, pero no hay ni rastros de Derek.
+Dos días después vuelve al campamento [Banitari](../../!EVENTOS/NPC´s/Banitari.md), pero no hay ni rastros de [Darek](../../!EVENTOS/NPC´s/Darek.md).
 
-Banitari tiene en la boca un pequeño palo de no más de una mano abierta de largo y una uña de ancho, el palo tiene atado 5 cuerdas a distancias regulares.
+[Banitari](../../!EVENTOS/NPC´s/Banitari.md) tiene en la boca un pequeño palo de no más de una mano abierta de largo y una uña de ancho, el palo tiene atado 5 cuerdas a distancias regulares.
 Al lado de cada cuerda hay una inicial, S, E, C, A, M.
 
 En la parte superior de cada cuerda, casi tocando el palo, se encuentran atados diferentes objetos pequeños: En la S un pedazo de musgo, en la E una pequeña flor naranja, en la C una roca de montaña, en la A una roca totalmente liza y en la M pelo blanco y corto.
