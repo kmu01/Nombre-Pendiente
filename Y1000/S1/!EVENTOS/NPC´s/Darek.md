@@ -1,1 +1,19 @@
-![image|inlL|300][Imágenes/Darek.png]
+<div>
+<div style="float: left">
+<img src="https://raw.githubusercontent.com/kmu01/Nombre-Pendiente/main/Im%C3%A1genes/Darek.png" width="300" 
+height="auto"
+
+ />
+</div>
+<div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Ut sem viverra aliquet eget sit amet tellus cras. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Volutpat lacus laoreet non curabitur gravida. Bibendum neque egestas congue quisque egestas diam in arcu cursus. Turpis massa sed elementum tempus egestas sed. Enim nulla aliquet porttitor lacus luctus. Eget velit aliquet sagittis id consectetur purus ut faucibus. Purus viverra accumsan in nisl nisi scelerisque eu. Et egestas quis ipsum suspendisse ultrices. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Cursus mattis molestie a iaculis at erat. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue nisi vitae suscipit. Feugiat pretium nibh ipsum consequat. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque.
+
+Ultricies mi eget mauris pharetra et ultrices neque ornare. Egestas diam in arcu cursus euismod quis viverra nibh. Nisl pretium fusce id velit ut tortor pretium. Suscipit adipiscing bibendum est ultricies integer quis auctor. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae. In arcu cursus euismod quis viverra nibh cras pulvinar. Dolor sed viverra ipsum nunc. Viverra justo nec ultrices dui. Venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus. Tellus molestie nunc non blandit massa enim. Viverra ipsum nunc aliquet bibendum enim facilisis gravida. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Tempus iaculis urna id volutpat.
+
+Tristique senectus et netus et malesuada fames ac turpis egestas. Dignissim suspendisse in est ante. Senectus et netus et malesuada. Ipsum a arcu cursus vitae congue mauris rhoncus. Tellus elementum sagittis vitae et leo duis. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Adipiscing enim eu turpis egestas. At volutpat diam ut venenatis. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dignissim suspendisse in est ante. Enim eu turpis egestas pretium aenean. At lectus urna duis convallis. Dignissim suspendisse in est ante in nibh mauris cursus.
+
+Tellus id interdum velit laoreet id donec. Gravida rutrum quisque non tellus orci. Nibh nisl condimentum id venenatis. Sit amet est placerat in. In est ante in nibh mauris cursus mattis. Nunc sed blandit libero volutpat. Ac orci phasellus egestas tellus. Diam vulputate ut pharetra sit amet aliquam id diam maecenas. At in tellus integer feugiat scelerisque varius morbi. Nulla facilisi cras fermentum odio eu feugiat pretium nibh. Malesuada fames ac turpis egestas sed tempus urna et pharetra. Commodo elit at imperdiet dui accumsan sit. A pellentesque sit amet porttitor eget dolor morbi non. Eget nulla facilisi etiam dignissim diam quis. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum.
+
+Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Tempor nec feugiat nisl pretium fusce id velit. Ultricies integer quis auctor elit sed vulputate mi. Cursus eget nunc scelerisque viverra mauris in. Fermentum posuere urna nec tincidunt praesent. Tincidunt ornare massa eget egestas. Ac placerat vestibulum lectus mauris ultrices eros. Arcu cursus euismod quis viverra nibh cras pulvinar mattis. Odio pellentesque diam volutpat commodo sed. At quis risus sed vulputate odio ut. Ac tincidunt vitae semper quis lectus nulla at volutpat. Neque aliquam vestibulum morbi blandit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Malesuada fames ac turpis egestas.
+</div>
+</div>
