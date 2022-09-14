@@ -13,7 +13,8 @@ Las montañas son traicioneramente peligrosas, aun así, sabiendo lo que está e
 Dos días después vuelve al campamento [Banitari](../../!EVENTOS/NPC´s/Banitari.md), pero no hay ni rastros de [Darek](../../!EVENTOS/NPC´s/Darek.md).
 
 [Banitari](../../!EVENTOS/NPC´s/Banitari.md) tiene en la boca un pequeño palo de no más de una mano abierta de largo y una uña de ancho, el palo tiene atado 5 cuerdas a distancias regulares.
-Al lado de cada cuerda hay una inicial, S, E, C, A, M.
+
+Al lado de cada y cuerda hay una inicial, S, E, C, A, M.
 
 En la parte superior de cada cuerda, casi tocando el palo, se encuentran atados diferentes objetos pequeños: En la S un pedazo de musgo, en la E una pequeña flor naranja, en la C una roca de montaña, en la A una roca totalmente liza y en la M pelo blanco y corto.
 
@@ -25,5 +26,8 @@ En específico, todos los nudos contienen a las cuerdas S y E, y a al menos una 
 
 También es de notar, como no solo las cuerdas que se atan son diferentes para cada iteración de nudos, sino que, aunque se repiten bastante y parecen estar siguiendo un patrón, también los nudos de cada cuerda son diferentes.
 
-<img src="https://culturacientifica.com/app/uploads/2018/05/imagen-9-1.jpg" width="300" 
-height="auto" style="vertical-align:middle;margin:3px 30px" align="left"> Te dejo una muestra de los diferentes nudos NO ENTRELAZADOS
+<img src="https://culturacientifica.com/app/uploads/2018/05/imagen-9-1.jpg" width="300" height="auto" style="vertical-align:middle;margin:3px 30px" align="left"> Te dejo una muestra de los diferentes nudos **sin entrelazar**.
+
+
+
+---

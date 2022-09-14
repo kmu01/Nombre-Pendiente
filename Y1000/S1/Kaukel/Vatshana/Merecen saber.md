@@ -36,8 +36,8 @@ Aunque esas no son las peores suposiciones. No puedo evitar cuestionarme si son 
 
 ---
 
-Tu tranquilidad, decisión y muestra de visión logran contentar a la multitud. Lográs terminar de explicar tus planes  y de organizar al vulgo (+1 Economía).
+Tu tranquilidad, decisión y muestra de visión logran contentar a la multitud. Lográs terminar de explicar tus planes y de organizar al vulgo (+1 Economía).
 
-Notás que hay un sentimiento de descontento generalizado, pero parece que es un descontento resignado, sabiendo que, aunque sea doloroso, es el mejor plan a seguir.
+Notás que hay un sentimiento de descontento generalizado, pero parece que es un descontento resignado sabiendo que, aunque sea doloroso, es el mejor plan a seguir.
 
-Luego de la charla todos vuelven a sus labores diarias, todavía quedan horas de sol, y, por lo tanto, todavía queda mucho por hacer. 
+Luego de la charla todos vuelven a sus labores diarias, todavía quedan horas de sol y, por lo tanto, mucho por hacer. 
