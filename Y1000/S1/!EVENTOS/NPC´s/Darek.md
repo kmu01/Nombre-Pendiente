@@ -1,1 +1,1 @@
-![image|300][Imágenes/Darek.png] 
+![image|inlL|300][Imágenes/Darek.png]
