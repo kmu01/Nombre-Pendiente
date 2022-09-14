@@ -9,4 +9,4 @@ Claro, antes de poner un nombre tan bonito y esperanzador habría que resolver e
 
 ---
 
-Sure.
+[Puck](../../Varso/Puck/Puck.md) al escuchar estas novedades sobre el nombre de su reino

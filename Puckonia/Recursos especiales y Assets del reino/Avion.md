@@ -8,5 +8,5 @@ También es de notar que el avión es un objeto extremadamente precioso, esto ha
 
 Además de esto, [Boblin](../../Y1000/S1/!EVENTOS/NPC´s/Boblin.md) es muy buen haciendo mapas, mas no los puede hacer mientras conduce, necesitará de un copiloto o un cartógrafo que lo ayude a realizar cualquier misión.
 
-Si [Puck](../../Y1000/S1/Varso/Puck/Puck.md) sin la intervencion de [Boblin](../../Y1000/S1/!EVENTOS/NPC´s/Boblin.md) es requerido pagarle al pelotudo del goblin 1 IP 2 RP  y luxory
+Si [Puck](../../Y1000/S1/Varso/Puck/Puck.md) sin la intervención de [Boblin](../../Y1000/S1/!EVENTOS/NPC´s/Boblin.md) es requerido pagarle al pelotudo del goblin 1 IP 2 RP  y 1  luxory
 
