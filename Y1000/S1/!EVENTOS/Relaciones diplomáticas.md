@@ -5,6 +5,12 @@ Luego de una comunicación relativamente ¿agresiva? hacia el pueblo vecino, una
 [Vatshana se aproxima a paso tranquilo](../Kaukel/Vatshana/Aqui%20no%20reinarán%20máquinas.md).
 
 ---
-Varso: Propongo resolver este evento por voz el viernes
-[Puck](../Varso/Puck/Puck.md) y [Kurr](../../../Kurr.md) ¿va a asistir?
+
+[Puck](../Varso/Puck/Puck.md) y [Puck](../Kmu/Kass/Kass.md) asistieron.
+
+---
+
+Considero este evento terminado.
+
+
 
