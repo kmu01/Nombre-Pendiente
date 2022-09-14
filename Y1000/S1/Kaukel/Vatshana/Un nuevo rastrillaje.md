@@ -26,4 +26,4 @@ En específico, todos los nudos contienen a las cuerdas S y E, y a al menos una 
 También es de notar, como no solo las cuerdas que se atan son diferentes para cada iteración de nudos, sino que, aunque se repiten bastante y parecen estar siguiendo un patrón, también los nudos de cada cuerda son diferentes.
 
 <img src="https://culturacientifica.com/app/uploads/2018/05/imagen-9-1.jpg" width="300" 
-height="auto" style="vertical-align:middle;margin:3px 30px" align="left">
+height="auto" style="vertical-align:middle;margin:3px 30px" align="left"> Te dejo una muestra de los diferentes nudos NO ENTRELAZADOS
