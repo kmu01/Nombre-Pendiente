@@ -4,12 +4,8 @@
 height="240" style="vertical-align:middle;margin:0px 25px">
 </div>
 <div>
-Joven y, como todo joven, aventurero, Darek fue el primero en tomar la incitativa para formar el auto-convocado ejército de Nevitash... 
-
-Lamentablemente, no existía ninguna intención de formar y mantener milicia, pero aún y todo se invistió como líder en esa sección. Solo le falta saber blandir una espada y dejar de intentar buscar fama y gloria. 
-
-Con eso quizá sobreviva lo suficiente como para ser relevante para la historia del pueblo.
-
-
+Joven y, como todo joven, aventurero, Darek fue el primero en tomar la incitativa para formar el auto-convocado ejército de Nevitash... <br><br>
+Lamentablemente, no existía ninguna intención de formar y mantener milicia, pero aún y todo se invistió como líder en esa sección. Solo le falta saber blandir una espada para tener un poco más de chance de encontrar esa  fama y gloria.<br><br>
+Traits de personalidad: Coraje +2; Bondad +3; Humildad -1. 
 </div>
 </div>
