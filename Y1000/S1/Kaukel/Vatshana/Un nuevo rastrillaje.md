@@ -36,4 +36,4 @@ Antes de ponerme a analizar los nudos pido a [Banitari](../../!EVENTOS/NPC´s/Ba
 
 Cargándome el gato sobre mi cuerpo, muto rápidamente, estirando mi cuello y expandiendo mi espalda, que la bendición de la naturaleza apremie mi cuerpo y me deje alzarme tomando la forma de un [águila de considerables dimensiones](https://5e.tools/bestiary.html#giant%20eagle_mm), con un plumaje más oscuro de lo habitual y con motas blancas imitando una estela estrellada que conozco pero nunca he visto.
 
-De un pequeño brinco tomo vuelo con mi familiar en mi lomo, apremiándole que me guíe donde se encuentra el general. No vaya a ser que necesite ayuda o haya perdido el camino de vuelta
+De un pequeño brinco tomo vuelo con mi familiar en mi lomo, apremiándole que me guíe donde se encuentra el general. No vaya a ser que necesite ayuda o haya perdido el camino de vuelta.
