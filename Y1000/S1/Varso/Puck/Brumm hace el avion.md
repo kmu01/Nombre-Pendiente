@@ -1,4 +1,4 @@
-Usando el avión y la ayuda de [Boblin](../../!EVENTOS/NPC´s/Boblin.md),[Puck](Puck.md) realizará un reconocimiento aéreo de ciertas zonas en busca de recursos o cuestiones que parezcan importantes.Necesito saber como funcionaria esto, ¿usar el avión me reduce el coste de IP? ¿cuanto?
+Usando el avión y la ayuda de [Boblin](../../!EVENTOS/NPC´s/Boblin.md), [Puck](Puck.md) realizará un reconocimiento aéreo de ciertas zonas en busca de recursos o cuestiones que parezcan importantes.Necesito saber como funcionaria esto, ¿usar el avión me reduce el coste de IP? ¿cuanto?
 
 ---
 
