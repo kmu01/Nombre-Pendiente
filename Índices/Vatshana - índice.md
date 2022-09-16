@@ -9,7 +9,7 @@ Acciones de turno:
 
 Acciones de evento grupal: 
 [Aqui no reinarán máquinas](Aqui%20no%20reinarán%20máquinas.md);
-[Cambio de administración](../../../../Y1000/S1/Kaukel/Vatshana/Cambio%20de%20administración.md).
+[Cambio de administración](/Y1000/S1/Kaukel/Vatshana/Cambio%20de%20administración.md).
 
 ---
 
