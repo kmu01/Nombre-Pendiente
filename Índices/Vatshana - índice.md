@@ -20,5 +20,5 @@ Acción de temporada:
 
 Acciones de turno: [Aquello que nos rodea](../../../../Archivo/Y0999/S4/Kaukel/Vatshana/Aquello%20que%20nos%20rodea.md);
 [Conocer a tus amigos](../../../../Archivo/Y0999/S4/Kaukel/Vatshana/Conocer%20a%20tus%20amigos.md);
-[El camino del comercio](//Archivo/Y0999/S4/Kaukel/Vatshana/Aquello que nos rodea.md);
+[El camino del comercio](./Archivo/Y0999/S4/Kaukel/Vatshana/Aquello que nos rodea.md);
 [En búsqueda de donde plantar](../../../../Archivo/Y0999/S4/Kaukel/Vatshana/En%20búsqueda%20de%20donde%20plantar.md).
