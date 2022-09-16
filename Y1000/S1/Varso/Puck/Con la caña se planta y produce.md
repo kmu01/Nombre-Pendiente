@@ -55,7 +55,7 @@ De acuerdo, lo pago.
 
 Desde las alturas lográs identificar el río del que estaba hablando [Martín](../../!EVENTOS/NPC´s/Martín.md). Se puede observar claramente como el río se forma en las montañas, probablemente por la lluvia, no lográs identificar donde desaparece, pero su camino es hacia tierras Hafling.
 También notás como, a los lados del río, parece estar comenzando a crecer un pastizal verde y arbustos, la tierra no parece tan árida como [Martín](../../!EVENTOS/NPC´s/Martín.md) la describió. 
-Estás seguro de que con un poco de ingeniería Kobold y un par de buenas manos [Warforged](../../../../Puckonia/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) podrías redirigir el río o alizar sus orillas para lograr tus cometidos, aunque eso sí, sería gran cantidad de trabajo.
+Estás seguro de que con un poco de ingeniería Kobold y un par de buenas manos [Warforged](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) podrías redirigir el río o alizar sus orillas para lograr tus cometidos, aunque eso sí, sería gran cantidad de trabajo.
 No lográs sacarte de la cabeza de que parece haber algo raro con este río, ¿quizás sea que es demasiado recto?.
 
 --- 
@@ -80,10 +80,10 @@ Me gustaría que especificaran si hacen algún tipo de barrera o guardia para la
 
 ---
 
-En las zonas aledañas a la nueva plantación realizamos con barro y paja una pequeña cabaña donde le pagamos a unos [Warforgeds](../../../../Puckonia/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) para que vigilen la seguridad de la nueva plantación, gasto 1 RP en realizar esto.
+En las zonas aledañas a la nueva plantación realizamos con barro y paja una pequeña cabaña donde le pagamos a unos [Warforgeds](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) para que vigilen la seguridad de la nueva plantación, gasto 1 RP en realizar esto.
 
 ---
 
-Perfecto, considero que la forma de selección de los [Warforged](../../../../Puckonia/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) es simplemente preguntando. Considero que este evento está terminado por la temporada.
+Perfecto, considero que la forma de selección de los [Warforged](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) es simplemente preguntando. Considero que este evento está terminado por la temporada.
 
 

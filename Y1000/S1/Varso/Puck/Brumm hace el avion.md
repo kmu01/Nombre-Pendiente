@@ -1,8 +1,8 @@
-Usando el avión y la ayuda de [Boblin](../../!EVENTOS/NPC´s/Boblin.md),[Puck](Puck.md) realizará un reconocimiento aéreo de ciertas zonas en busca de recursos o cuestiones que parezcan importantes.Necesito saber como funcionaria esto, ¿usar el avión me reduce el coste de IP? ¿cuanto?
+Usando el avión y la ayuda de [Boblin](../../!EVENTOS/NPC´s/Boblin.md), [Puck](Puck.md) realizará un reconocimiento aéreo de ciertas zonas en busca de recursos o cuestiones que parezcan importantes.Necesito saber como funcionaria esto, ¿usar el avión me reduce el coste de IP? ¿cuanto?
 
 ---
 
-El avión permite realizar exploraciones o movimientos de pequeñas unidades extremadamente rápido, pero se queda sin combustible rápido y lo recarga muy lentamente. El [Avion](../../../../Puckonia/Recursos%20especiales%20y%20Assets%20del%20reino/Avion.md) permite por estas razones ejecutar un viaje de un grupo de personas a una locación alejada a no más de 50 hexágonos de distancia.
+El avión permite realizar exploraciones o movimientos de pequeñas unidades extremadamente rápido, pero se queda sin combustible rápido y lo recarga muy lentamente. El [Avion](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Avion.md) permite por estas razones ejecutar un viaje de un grupo de personas a una locación alejada a no más de 50 hexágonos de distancia.
 
 El viaje requiere un punto de influencia para ordenarle a [Boblin](../../!EVENTOS/NPC´s/Boblin.md) que utilice el avión, más un punto de recursos para el viaje.
 
