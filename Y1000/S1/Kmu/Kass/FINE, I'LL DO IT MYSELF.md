@@ -24,3 +24,5 @@ Si las cosas salen como fueron habladas, a fin de mes va a llegar una carreta ti
 
 A la mañana siguiente ocurre el juicio, donde [Kass](Kass.md) va a asignar un warforged a cada participante, siendo estos solamente ella y [Alexander](../../!EVENTOS/NPC´s/Alexander.md). Los cuales van a ir progresivamente cambiando.
 Toda la atención de Kass va a estar sentrada en el desempeño de dichos warforged, ya que a no ser que el gnomo diga algo totalmente estúpido, su pena ya esta decidida.
+
+Decime si esto es en partida o escrito.
