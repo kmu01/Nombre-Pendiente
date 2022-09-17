@@ -5,4 +5,4 @@ Acciones de turno:
 [Merecen saber](Merecen%20saber.md); [Un nuevo rastrillaje](Un%20nuevo%20rastrillaje.md).
 
 Acciones de evento grupal:
-[Aqui no reinarán máquinas](Aqui%20no%20reinarán%20máquinas.md); [Cambio de administración](Cambio%20de%20administración.md).
+[Aquí no reinarán máquinas](Aquí%20no%20reinarán%20máquinas.md); [Cambio de administración](Cambio%20de%20administración.md).

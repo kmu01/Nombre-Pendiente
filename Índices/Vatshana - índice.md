@@ -1,7 +1,7 @@
 ##### 1000:1
 Acción de temporada: [Mi mano para cortar las piedras](../../../../Y1000/S1/Kaukel/Vatshana/Mi%20mano%20para%20cortar%20las%20piedras.md).
 Acciones de turno: [Merecen saber](../../../../Y1000/S1/Kaukel/Vatshana/Merecen%20saber.md); [Un nuevo rastrillaje](../../../../Y1000/S1/Kaukel/Vatshana/Un%20nuevo%20rastrillaje.md).
-Acciones de evento grupal: [Aquí no reinarán máquinas](../../../../Y1000/S1/Kaukel/Vatshana/Aqui%20no%20reinarán%20máquinas.md); [Cambio de administración](../../../../Y1000/S1/Kaukel/Vatshana/Cambio%20de%20administración.md).
+Acciones de evento grupal: [Aquí no reinarán máquinas](../Y1000/S1/Kaukel/Vatshana/Aquí%20no%20reinarán%20máquinas.md); [Cambio de administración](../../../../Y1000/S1/Kaukel/Vatshana/Cambio%20de%20administración.md).
 
 ---
 
