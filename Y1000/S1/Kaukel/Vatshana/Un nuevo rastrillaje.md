@@ -37,3 +37,11 @@ Antes de ponerme a analizar los nudos pido a [Banitari](../../!EVENTOS/NPC´s/Ba
 Cargándome el gato sobre mi cuerpo, muto rápidamente, estirando mi cuello y expandiendo mi espalda, que la bendición de la naturaleza apremie mi cuerpo y me deje alzarme tomando la forma de un [águila de considerables dimensiones](https://5e.tools/bestiary.html#giant%20eagle_mm), con un plumaje más oscuro de lo habitual y con motas blancas imitando una estela estrellada que conozco pero nunca he visto.
 
 De un pequeño brinco tomo vuelo con mi familiar en mi lomo, apremiándole que me guíe donde se encuentra el general. No vaya a ser que necesite ayuda o haya perdido el camino de vuelta.
+
+---
+
+Una cueva, cual si fuese las fauces abiertas de la montaña se ciernen ante ti. El rico olor a tierra y moho, y un ritmo resonante de goteo… goteo… goteo representan la escasa información que tus sentidos revelan mientras observas cuidadosamente la oscuridad de su garganta. 
+
+Al afinar tus sentidos detectas un olor a pelo mojado y, mientras tus ojos se ajustan a la oscuridad, encuentras marcas de tallados en el interior. Estos tallados son antiguos y parecen marcar una antigua escalera hacia lo que, ahora, solo es penumbra.
+
+Y, de repente, mientras estás preparándote para tomar tu siguiente decisión, escuchas un rugido que parece venir desde el mismísimo centro de la tierra. Parece que, lo que sea que esté ahí abajo, sabe que tiene nuevos visitantes y no aparenta demasiado hospitalario.
