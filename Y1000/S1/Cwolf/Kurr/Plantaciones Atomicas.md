@@ -2,7 +2,11 @@ Aprovechando [Saludar al nuevo vecino](../../!EVENTOS/Saludar%20al%20nuevo%20vec
 
 ---
 
-Estaría bueno que especificaras qué experimentos vas a hacer sobre las plantas.
+Estaría bueno que especificaras qué experimentos plantas vas a hacer sobre las plantas.
 
 Perfecto, este evento lo resolvemos luego de que se rolee [Saludar al nuevo vecino](../../!EVENTOS/Saludar%20al%20nuevo%20vecino.md)
 
+---
+Primero un analisis fenotipoco longitud de planta, cantidad de frutos, collor de la planta y sio existen otras carateristicas taxonomicas relevantes. Empezar a resguardar un historial de semillas para hacer experimentacion genetica sobre las plantas
+
+Un analizis Arcano de las plantas, usando mis sentidos y conocimientos botanicos medicinales previos (Tengo bastante medicina)
