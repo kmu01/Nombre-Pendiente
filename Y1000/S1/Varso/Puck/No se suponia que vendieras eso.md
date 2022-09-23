@@ -37,3 +37,4 @@ El [Warforged](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%
 
 --- 
 [Alexander](../../!EVENTOS/NPC´s/Alexander.md) acepta a regañadientes
+

@@ -40,5 +40,12 @@ Podrías llegar a preguntarte cómo hizo para conseguir un trato tan bueno con l
 
 También, mientras estás haciendo las compras, escuchas como algunos Haflings están preocupados por qué van a hacer de comer cuando venga el EJERCITO ELFO a la ciudad. Aparentemente, no saben cuál es el protocolo para estas situaciones y quieren dejar una buena impresión.
 
+---
 
+Respecto a Alexander y el juicio podemos hacer eso en el evento [No se suponía que vendieras eso](../../Varso/Puck/No%20se%20suponia%20que%20vendieras%20eso.md) por texto. En cuanto a lo otro:
 
+De total entrometida, le informo a uno de los halflings que los elfos tradicionalmente consumen una masa similar a la del pan, pero sin fermento y con huevos de gallina, la cual luego se corta en hilos tan gruesos como los que formarían un canasto. Estos se cocinan dejandolos en agua hirviendo hasta que floten, y se sirven en una sopa de tomate con menos líquido y por ende mas espesa.
+
+Eso sí, que tengan cuidado si la comida es demasiado mala, ya que van a tomar ofensa. Pero aún mas importante, que no sea demasiado buena, ya que si lo preparan mejor que ellos no van a atacar sus costumbres, van a atacar su orgullo, lo cual es muchísimo peor. Tambien les detallo como, hace mucho tiempo en las viejas minas subterraneas, uno de los primeros conflictos entre los elfos y los dracónidos fue debido a un debate culinario, y que posiblemente quede una docena de dracónidos debido en parte a que en algún momento sirvieron un mejor vino que los elfos.
+
+Después de la clase de historia les propongo la idea de buscar mis notas sobre tradicionales recetas élficas a cambio de que me inviten a participar en la comida, ya que nunca logré probar dichas recetas y me encantaría hacerlo.
