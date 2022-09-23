@@ -26,3 +26,19 @@ A la mañana siguiente ocurre el juicio, donde [Kass](Kass.md) va a asignar un w
 Toda la atención de Kass va a estar sentrada en el desempeño de dichos warforged, ya que a no ser que el gnomo diga algo totalmente estúpido, su pena ya esta decidida.
 
 Decime si esto es en partida o escrito.
+
+---
+
+En el caso de que quieras manejar lo del [Warforged]  entregado en [No se suponía que vendieras eso](../../Varso/Puck/No%20se%20suponia%20que%20vendieras%20eso.md) lo hablamos y si querés lo podemos manejar por voz o por texto
+
+Lo importante de eso es que los Hafling te informan que el [Warforged] no fue vendido, sino que fue dejado como garantía por el pago posterior de la caña de azúcar que le compraron en el evento [Con la caña se planta y produce].
+Además de esto te comunica que dentro de poco comenzará el invierno y que la luna está muy bonita esta noche.
+
+Podés comprar los alimentos sin mayor problema, notás como evidentemente la cantidad de comida que llevás en tu carreta y tus dos mulas es menor a la que traía [Alexander].
+
+Podrías llegar a preguntarte cómo hizo para conseguir un trato tan bueno con los Haflings.
+
+También, mientras estás haciendo las compras, escuchas como algunos Haflings están preocupados por qué van a hacer de comer cuando venga el EJERCITO ELFO a la ciudad. Aparentemente, no saben cuál es el protocolo para estas situaciones y quieren dejar una buena impresión.
+
+
+
