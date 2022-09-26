@@ -57,3 +57,9 @@ Aceptan agradecidos tu propuesta culinaria, los elfos vendrán al final del mes 
 También, al ver lo culta que sos con respecto a comidas te informan de que ellos estarían contentos de pagar una buena suma de dinero por comidas y experiencias extravagantes, así que si consiguen alguna no duden en traérselas.
 
 Por último, un hafling de lentes gruesos y aspecto sabiondo te presenta un mapa del lugar, y, sin mucha dilación te pide que le marques dónde está tu pueblo en el mapa, piensa que sería útil saber dónde están.
+
+---
+
+(Oh, excusa para traer los personajes secundarios)
+
+Le cuento a 🤓 que no estamos tan lejos del camino que siempre se tomó a bon fuerte, y cuando le estoy detallando la ruta en el mapa me doy cuenta que si quiero llegar a fecha posiblemente tambien tengan que correr los burros. Por lo tanto, se lo termino señalando por encima antes de salir corriendo y exclamar: "SI TIENEN A ALGUIEN QUE BUSQUE TRABAJO NO TRADICIONAL Y NO SEA UN MAGO ESTA INVITADO"
