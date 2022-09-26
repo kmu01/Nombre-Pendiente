@@ -36,5 +36,9 @@ Escuchando el alboroto causado por su presencia, [Puck](Puck.md) le comenta a [A
 El [Warforged](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) que estaba viviendo ahí se le pide por favor que vuelva a su vieja casa, el dinero que le dimos se mantiene
 
 --- 
+
 [Alexander](../../!EVENTOS/NPC´s/Alexander.md) acepta a regañadientes
 
+---
+
+Finalmente, el día del juicio está a punto de llegar, me gustaría que me informaran qué preparativos hacen para el juicio y de qué forma los hacen. 
