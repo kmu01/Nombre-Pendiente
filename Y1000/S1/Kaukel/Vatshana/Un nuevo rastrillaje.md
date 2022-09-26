@@ -48,6 +48,12 @@ Y, de repente, mientras estás preparándote para tomar tu siguiente decisión, 
 
 En caso de que lo necesites, [Banitari](../../!EVENTOS/NPC´s/Banitari.md) te informa que [Darek](../../!EVENTOS/NPC´s/Darek.md) se adentró dentro de la cueva, pero, ya no quedan rastros del chico.
 
-En caso de que intentes identificar su posición de forma mágica, el joven se encuentra en el poblado vecino de [Nova Spes]
+En caso de que intentes identificar su posición de forma mágica, el joven se encuentra en el poblado vecino de [Nova Spes](../../../../../Nova%20Spes/informacion%20del%20reino.md)
 
+---
 
+Confiando en mi magia druida, especialmente en mis conjuros para tratar con criaturas de esta índole, ya sea _Charm Monster_ o _Dominate Beast_.
+
+Especialmente esta última, ya que es bastante más efectiva y no le informa a la bestia que fue encantada. 
+
+Más allá de esto, mantengo cerca a mi gato en caso que necesite algo de ayuda, aunque tampoco me atrevo a ingresar en forma temeraria, por lo que aguardo en la boca de la cueva, lista para establecér vuelo de ser necesario.
