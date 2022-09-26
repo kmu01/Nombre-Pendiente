@@ -49,3 +49,11 @@ De total entrometida, le informo a uno de los halflings que los elfos tradiciona
 Eso sí, que tengan cuidado si la comida es demasiado mala, ya que van a tomar ofensa. Pero aún mas importante, que no sea demasiado buena, ya que si lo preparan mejor que ellos no van a atacar sus costumbres, van a atacar su orgullo, lo cual es muchísimo peor. Tambien les detallo como, hace mucho tiempo en las viejas minas subterraneas, uno de los primeros conflictos entre los elfos y los dracónidos fue debido a un debate culinario, y que posiblemente quede una docena de dracónidos debido en parte a que en algún momento sirvieron un mejor vino que los elfos.
 
 Después de la clase de historia les propongo la idea de buscar mis notas sobre tradicionales recetas élficas a cambio de que me inviten a participar en la comida, ya que nunca logré probar dichas recetas y me encantaría hacerlo.
+
+---
+
+Aceptan agradecidos tu propuesta culinaria, los elfos vendrán al final del mes que viene, así que podrías venir en cualquier momento de la tercer semana. 
+
+También, al ver lo culta que sos con respecto a comidas te informan de que ellos estarían contentos de pagar una buena suma de dinero por comidas y experiencias extrabagantes, así que si consiguen alguna no duden en traeselas.
+
+Por último un hafling de lentes gruesos y aspecto sabiondo te presenta un mapa del luger, y, sin mucha dilación te pide que le marques dónde está tu pueblo en el mapa, piensa que sería útil saber donde están.
