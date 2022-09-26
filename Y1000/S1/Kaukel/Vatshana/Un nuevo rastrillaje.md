@@ -56,4 +56,4 @@ Confiando en mi magia druida, especialmente en mis conjuros para tratar con cria
 
 Especialmente esta última, ya que es bastante más efectiva y no le informa a la bestia que fue encantada. 
 
-Más allá de esto, mantengo cerca a mi gato en caso que necesite algo de ayuda, aunque tampoco me atrevo a ingresar en forma temeraria, por lo que aguardo en la boca de la cueva, lista para establecér vuelo de ser necesario.
+Más allá de esto, mantengo cerca a mi gato en caso que necesite algo de ayuda, aunque tampoco me atrevo a ingresar en forma temeraria, por lo que aguardo en la boca de la cueva, lista para establecer vuelo de ser necesario.
