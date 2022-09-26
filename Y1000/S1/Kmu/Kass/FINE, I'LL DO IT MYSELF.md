@@ -52,8 +52,8 @@ Después de la clase de historia les propongo la idea de buscar mis notas sobre 
 
 ---
 
-Aceptan agradecidos tu propuesta culinaria, los elfos vendrán al final del mes que viene, así que podrías venir en cualquier momento de la tercer semana. 
+Aceptan agradecidos tu propuesta culinaria, los elfos vendrán al final del mes que viene, así que podrías venir en cualquier momento de la tercer semana.
 
-También, al ver lo culta que sos con respecto a comidas te informan de que ellos estarían contentos de pagar una buena suma de dinero por comidas y experiencias extrabagantes, así que si consiguen alguna no duden en traeselas.
+También, al ver lo culta que sos con respecto a comidas te informan de que ellos estarían contentos de pagar una buena suma de dinero por comidas y experiencias extravagantes, así que si consiguen alguna no duden en traérselas.
 
-Por último un hafling de lentes gruesos y aspecto sabiondo te presenta un mapa del luger, y, sin mucha dilación te pide que le marques dónde está tu pueblo en el mapa, piensa que sería útil saber donde están.
+Por último, un hafling de lentes gruesos y aspecto sabiondo te presenta un mapa del lugar, y, sin mucha dilación te pide que le marques dónde está tu pueblo en el mapa, piensa que sería útil saber dónde están.
