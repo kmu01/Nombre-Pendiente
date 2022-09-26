@@ -69,3 +69,7 @@ Me retiro, alzandándome con mis alas. Le pido a mi familiar que regrese con el 
 Siendo que ya ha recorrido conmigo las tierras del reino vecino, espero que sepan distinguir su particular pelaje, cosa de no causarle ningún daño. 
 
 Aunque ser precavido nunca está de más.
+
+---
+
+Perfecto, entonces doy el evento terminado por este turno, en el siguiente turno creemos un evento para resolver lo que queda.
