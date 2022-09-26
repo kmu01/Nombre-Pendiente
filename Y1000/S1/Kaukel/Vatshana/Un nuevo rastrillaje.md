@@ -45,3 +45,9 @@ Una cueva, cual si fuese las fauces abiertas de la montaña se ciernen ante ti. 
 Al afinar tus sentidos detectas un olor a pelo mojado y, mientras tus ojos se ajustan a la oscuridad, encuentras marcas de tallados en el interior. Estos tallados son antiguos y parecen marcar una antigua escalera hacia lo que, ahora, solo es penumbra.
 
 Y, de repente, mientras estás preparándote para tomar tu siguiente decisión, escuchas un rugido que parece venir desde el mismísimo centro de la tierra. Parece que, lo que sea que esté ahí abajo, sabe que tiene nuevos visitantes y no aparenta demasiado hospitalario.
+
+En caso de que lo necesites, [Banitari](../../!EVENTOS/NPC´s/Banitari.md) te informa que [Darek](../../!EVENTOS/NPC´s/Darek.md) se adentró dentro de la cueva, pero, ya no quedan rastros del chico.
+
+En caso de que intentes identificar su posición de forma mágica, el joven se encuentra en el poblado vecino de [Nova Spes]
+
+
