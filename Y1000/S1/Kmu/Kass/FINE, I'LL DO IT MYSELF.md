@@ -62,4 +62,4 @@ Por último, un hafling de lentes gruesos y aspecto sabiondo te presenta un mapa
 
 (Oh, excusa para traer los personajes secundarios)
 
-Le cuento a 🤓 que no estamos tan lejos del camino que siempre se tomó a bon fuerte, y cuando le estoy detallando la ruta en el mapa me doy cuenta que si quiero llegar a fecha posiblemente tambien tengan que correr los burros. Por lo tanto, se lo termino señalando por encima antes de salir corriendo y exclamar: "SI TIENEN A ALGUIEN QUE BUSQUE TRABAJO NO TRADICIONAL Y NO SEA UN MAGO ESTA INVITADO"
+Le cuento a 🤓 que no estamos tan lejos del camino que siempre se tomó a bon fuerte, y cuando le estoy detallando la ruta en el mapa me doy cuenta que si quiero llegar a fecha posiblemente tambien tengan que correr los burros. Por lo tanto, lo termino señalando por encima antes de salir corriendo y exclamando: "SI TIENEN A ALGUIEN QUE BUSQUE TRABAJO NO TRADICIONAL Y NO SEA UN MAGO ESTA INVITADO"
