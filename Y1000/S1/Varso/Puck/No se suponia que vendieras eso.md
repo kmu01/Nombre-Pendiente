@@ -45,5 +45,15 @@ Finalmente, el día del juicio está a punto de llegar, me gustaría que me info
 
 ---
 Puck mientras Kass se encuentra en su viaje, se pone en marcha a organizar las cuestiones necesarias para el juicio.
-Considerando que las cuestiones técnicas  del juicio ya fueron explicadas por kass, Puck se va a encargar de permitir que estas cosas ocurran, entre las cuestiones que se encarga, nota como no tenemos un conteo de la población de warforgeds, por lo que este tiempo se va a encargar de realizar un censo  de cada warfogeds de la ciudad, con la ayuda de voluntarios (va a preguntar)
-(genuinamente gab, no sé que queres que prepare, más que nada porque no sé qué tipo de ley tenemos)
+Considerando que las cuestiones técnicas del juicio ya fueron explicadas por [Kass](../../Kmu/Kass/Kass.md), [Puck](Puck.md) se va a encargar de permitir que estas cosas ocurran, entre las cuestiones que se encarga, nota como no tenemos un conteo de la población de  [Warforgeds](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md), por lo que este tiempo se va a encargar de realizar un censo de cada  [Warforgeds](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) de la ciudad, con la ayuda de voluntarios (va a preguntar)
+(genuinamente gab, no sé que querés que prepare, más que nada porque no sé qué tipo de ley tenemos)
+
+---
+
+Exactamente, yo tampoco sé qué tipo de ley tienen, entonces me gustaría que me describieran qué están haciendo.
+
+Me gustaría que explicaras las cosas, y si no sabés que es lo que tenés que hacer que lo hables con Kmu y que me lo expliques.
+
+Además de eso sería buena práctica que si vas a mencionar algo lo tagees como es debido, ej Kass y Puck
+
+Además de eso, ¿vas a hacer un censo solo de [Warforgeds](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md)?
