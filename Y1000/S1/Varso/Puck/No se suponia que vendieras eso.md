@@ -42,3 +42,8 @@ El [Warforged](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%
 ---
 
 Finalmente, el día del juicio está a punto de llegar, me gustaría que me informaran qué preparativos hacen para el juicio y de qué forma los hacen. 
+
+---
+Puck mientras Kass se encuentra en su viaje, se pone en marcha a organizar las cuestiones necesarias para el juicio.
+Considerando que las cuestiones técnicas  del juicio ya fueron explicadas por kass, Puck se va a encargar de permitir que estas cosas ocurran, entre las cuestiones que se encarga, nota como no tenemos un conteo de la población de warforgeds, por lo que este tiempo se va a encargar de realizar un censo  de cada warfogeds de la ciudad, con la ayuda de voluntarios (va a preguntar)
+(genuinamente gab, no sé que queres que prepare, más que nada porque no sé qué tipo de ley tenemos)
