@@ -74,10 +74,14 @@ La pena es decidida por el juez, y en principio también va a decidir si el acus
 
 En cuanto a que es un crimen y que no, supongo que violar el derecho a la vida y/o a la libertad sin la autoridad para ello es algo malo. Claro no se define muy bien hasta donde llega eso (a lo mejor es aceptable la esclavitud por deuda, que se yo).
 
-En resumen este juicio es trivial, pero la recepción del sistema aplicado es lo que va a definir como se va a compenzar a portar la justicia en el "reino".
+En resumen este juicio es trivial, pero la recepción del sistema aplicado es lo que va a definir como se va a comenzar a portar la justicia en el "reino".
 
 ---
 
 A mí me gustaría que lo mencionaran cada vez, porque me hace más fácil la navegación, pero como quieran
 
 Exactamente, como este es el primer juicio, es el que va a sentar las bases del sistema de justicia, por lo tanto, si Varso quiere podemos hacer como hacemos con Kaukel y llevar a cavo una mini partida por texto para preparar y resolver el juicio, como prefieran.
+
+---
+
+No se que tan presente va a estar Varso pero por mi bien
