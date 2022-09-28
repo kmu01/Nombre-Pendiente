@@ -57,3 +57,21 @@ Me gustaría que explicaras las cosas, y si no sabés que es lo que tenés que h
 Además de eso sería buena práctica que si vas a mencionar algo lo tagees como es debido, ej Kass y Puck
 
 Además de eso, ¿vas a hacer un censo solo de [Warforgeds](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md)?
+
+---
+
+Kmu aca, ¿es necesario taggear si ya fue mencionado anteriormente en el propio evento?.
+
+Anyways como que no estoy para el censo pero para el juicio dependiendo de como esté el clima o se hace al aire libre, o hacemos espacio en la biblioteca.
+
+En cuanto a la ley, generalmente se establece a partir de costumbres y creencias de la población, lo cual es complicado de entender cuando es tan variada y no todos son capaces de comunicarse, sumado a que solo hemos coexistido por 1 mes. Además también se crean leyes como solución a problemas que surjan, o bajo el consenso de expertos en ley, los cuales tenemos: 0.
+
+Supongo que el derecho que estamos estableciendo con el juicio es que si se acusa a alguien de un "crimen", que no sea lo suficientemente pequeño para ser resuelto por las partes involucradas, el acusado tiene derecho a un juicio justo, y totalmente público, así la gente tiene algo para entretenerse.
+
+¿A que me refiero con público? Bueno que cualquiera puede entrar, y con la aprobación del juez, incluso participar en el juicio. 
+
+La pena es decidida por el juez, y en principio también va a decidir si el acusado es inocente o culpable. Esto puede cambiar una vez que tengamos papel, estructuras funcionales donde llevar juicios, o mas gente, donde se podría implementar un jurado o un voto público.
+
+En cuanto a que es un crimen y que no, supongo que violar el derecho a la vida y/o a la libertad sin la autoridad para ello es algo malo. Claro no se define muy bien hasta donde llega eso (a lo mejor es aceptable la esclavitud por deuda, que se yo).
+
+En resumen este juicio es trivial, pero la recepción del sistema aplicado es lo que va a definir como se va a compenzar a portar la justicia en el "reino".
