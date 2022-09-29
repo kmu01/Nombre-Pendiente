@@ -100,6 +100,7 @@ Los juicios son publicos y cualquiera puede dar su opinion del hecho con permiso
 ---
 
 Perfecto, Alexander te responde lo siguiente:
+
 —Generalmente, los contactos que he tenido con la ley han sido demasiado buenos... —dice dubitativo— Generalmente es un guardia golpeándote y asotandote hasta que le das lo que te estaba pidiendo. 
 
 »Y yo me acuerdo una vez como yo le decía que el reloj era de mi abuela y... y... —Gesticula con las manos como buscado una respuesta— Me acuerdo como él decía: "¡Todos saben que los Gnomos no tienen abuelas estúpido!".
