@@ -93,7 +93,7 @@ de todas formas puck no tiene nada que añadir a este sistema tempora ni le inte
 Sabes que, olvida eso, voy a hacer lo sigiente:
 Una vez realizado el censo de todos los warforgeds, contabilizo a los otros ciudadanos( los soldados, mis kobolds y boblin) obteniendo de esa manera el numero total de ciudadanos. quedo a nota de realizar un identificador unico para cada ciudadano.
 
-Una vez realizado eso y sigiendo la idea que planteo kass voy a ofrecer el puesto de prosecutor de entre los ciudadanos(quien quiera serlo, en caso de que nadie quiera me presento yo), le pregunto a alexander si desea que algien lo defienda, en caso contraria se defendera el mismo( y de paso le pregunto de donde esta basando su parametro de "ley justa") (no sabemos como es la ley gnoma)
+Una vez realizado eso y siguiendo la idea que planteo kass voy a ofrecer el puesto de prosecutor de entre los ciudadanos(quien quiera serlo, en caso de que nadie quiera me presento yo), le pregunto a alexander si desea que algien lo defienda, en caso contraria se defendera el mismo( y de paso le pregunto de donde esta basando su parametro de "ley justa") (no sabemos como es la ley gnoma)
 
 Quedo a nota de escribir las leyes del reino
 
