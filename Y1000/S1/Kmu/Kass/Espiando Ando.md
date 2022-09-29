@@ -1,1 +1,5 @@
 El fin de semana, de la semana despues del juicio antes de que lleguen nuevas personas al pueblo, voy a chusmear (en secreto) cómo, y en qué, andan nuestros vecinos tanto en el Fuerte como en el pueblo de arriba.
+
+---
+
+Perfecto, ¿cómo lo vas a hacer?
