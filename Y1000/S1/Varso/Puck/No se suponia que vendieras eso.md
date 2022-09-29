@@ -87,5 +87,5 @@ Exactamente, como este es el primer juicio, es el que va a sentar las bases del 
 No se que tan presente va a estar Varso pero por mi bien
 
 ---
-Si no es escribo nada, no tengo nada más que decir, no me esperes. 
-Y no, esto no va a sentar las bases de nuestro sistema, no hay leyes reales ni nadie que sepa  diseñar nuevas, esto es meramente temporal. 
+Nah, esto no va a sentar las bases de nuestro sistema, no hay leyes reales ni nadie que sepa  diseñar nuevas, esto es meramente temporal. 
+de todas formas puck no tiene nada que añadir a este sistema tempora ni le interesa, va a estar de espectador, nada mas.
