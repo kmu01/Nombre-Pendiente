@@ -8,4 +8,4 @@ Una vez que eso ocurra vamos a tener mano de obra de sobra para construir nuevas
 
 ---
 
-Me gustaría resolver el [Espiando Ando](Espiando%20Ando.md) antes, pero sí.
+Me gustaría resolver el [Espiando Ando](Espiando%20Ando.md) antes, mas que nada para saber que nuestra situación general es relativamente segura, pero sí.

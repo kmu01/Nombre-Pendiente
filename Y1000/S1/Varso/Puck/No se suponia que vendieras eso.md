@@ -87,10 +87,9 @@ Exactamente, como este es el primer juicio, es el que va a sentar las bases del 
 No se que tan presente va a estar Varso pero por mi bien
 
 ---
-<<<<<<< HEAD
+
 Si no es escribo nada, no tengo nada más que decir, no me esperes. 
 Y no, esto no va a sentar las bases de nuestro sistema, no hay leyes reales ni nadie que sepa diseñar nuevas, esto es meramente temporal.
-=======
 
 Sabes que, olvida eso, voy a hacer lo sigiente:
 Una vez realizado el censo de todos los warforgeds, contabilizo a los otros ciudadanos( los soldados, mis kobolds y boblin) obteniendo de esa manera el numero total de ciudadanos. quedo a nota de realizar un identificador unico para cada ciudadano.
@@ -131,4 +130,3 @@ Todo el juicio
 ---
 
 sure 
->>>>>>> origin/main
