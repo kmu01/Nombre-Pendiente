@@ -89,3 +89,8 @@ No se que tan presente va a estar Varso pero por mi bien
 ---
 Nah, esto no va a sentar las bases de nuestro sistema, no hay leyes reales ni nadie que sepa  diseñar nuevas, esto es meramente temporal. 
 de todas formas puck no tiene nada que añadir a este sistema tempora ni le interesa, va a estar de espectador, nada mas.
+
+Sabes que, olvida eso, voy a hacer lo sigiente:
+Una vez realizado el censo de todos los warforgeds, contabilizo a los otros ciudadanos( los soldados, mis kobolds y boblin) obteniendo de esa manera el numero total de ciudadanos. quedo a nota de realizar un identificador unico para cada ciudadano.
+Una vez realizado eso y sigiendo la idea que planteo kass voy a ofrecer el puesto de prosecutor de entre los ciudadanos(quien quiera serlo, en caso de que nadie quiera me presento yo), le pregunto a alexander si desea que algien lo defienda, en caso contraria se defendera el mismo( y de paso le pregunto de donde esta basando su parametro de "ley justa) (no sabemos como es la ley gnoma) 
+Y hecho todo eso planteo el realizar un jurado, que para que sea imparcial y dada la cantidad de gente que disponemos, el jurado estara conformado por (temporalmente) 6 personas, de las cuales proporcionalmente a nuestra poblacion, sera 1 humano, 1 kobold, y 4 warforgeds.
