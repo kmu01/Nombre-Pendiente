@@ -119,3 +119,7 @@ Okey si te parece lo roleamos por voz.
 ---
 
 Que  queda por rolear?
+
+---
+
+Todo el juicio
