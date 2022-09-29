@@ -23,3 +23,9 @@ Todos pasan una tranquila noche, mas notás como se empieza a crear una divisió
 Mientras la noche se va apagando al unísono de las brazas del fuego, notás una sensación extraña, como el dolor de una carie que no sabías que tenías. Y tal como vino, esa sensación desaparece.
 
 En caso de que quieras hacer algo más avisame, si no, damos este evento por terminado.
+
+---
+
+Perfecto, entonces por las acciones realizadas consolidá el -1 Estabilidad creado en Kobold Sign Language School.
+
+También agregate un +1 a Lealtad (no consolidado).
