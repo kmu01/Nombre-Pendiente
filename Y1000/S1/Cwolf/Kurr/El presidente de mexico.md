@@ -26,6 +26,6 @@ En caso de que quieras hacer algo más avisame, si no, damos este evento por ter
 
 ---
 
-Perfecto, entonces por las acciones realizadas consolidá el -1 Estabilidad creado en Kobold Sign Language School.
+Perfecto, entonces por las acciones realizadas consolidá el -1 Estabilidad creado en [Kobold Sign Language School].
 
 También agregate un +1 a Lealtad (no consolidado).
