@@ -87,14 +87,19 @@ Exactamente, como este es el primer juicio, es el que va a sentar las bases del 
 No se que tan presente va a estar Varso pero por mi bien
 
 ---
-Nah, esto no va a sentar las bases de nuestro sistema, no hay leyes reales ni nadie que sepa  diseñar nuevas, esto es meramente temporal. 
-de todas formas puck no tiene nada que añadir a este sistema tempora ni le interesa, va a estar de espectador, nada mas.
 
 Sabes que, olvida eso, voy a hacer lo sigiente:
 Una vez realizado el censo de todos los warforgeds, contabilizo a los otros ciudadanos( los soldados, mis kobolds y boblin) obteniendo de esa manera el numero total de ciudadanos. quedo a nota de realizar un identificador unico para cada ciudadano.
 
-Una vez realizado eso y siguiendo la idea que planteo kass voy a ofrecer el puesto de prosecutor de entre los ciudadanos(quien quiera serlo, en caso de que nadie quiera me presento yo), le pregunto a alexander si desea que algien lo defienda, en caso contraria se defendera el mismo( y de paso le pregunto de donde esta basando su parametro de "ley justa") (no sabemos como es la ley gnoma)
+Una vez realizado eso y siguiendo la idea que planteo Kass voy a ofrecer el puesto de prosecutor de entre los ciudadanos(quien quiera serlo, en caso de que nadie quiera me presento yo), le pregunto a Alexander si desea que algien lo defienda, en caso contraria se defendera el mismo( y de paso le pregunto de donde esta basando su parametro de "ley justa") (no sabemos como es la ley gnoma)
 
 Quedo a nota de escribir las leyes del reino
 
 Los juicios son publicos y cualquiera puede dar su opinion del hecho con permiso del juez levantando la mano 
+
+---
+
+Perfecto, Alexander te responde lo siguiente:
+—Generalmente, los contactos que he tenido con la ley han sido demasiado buenos... —dice dubitativo— Generalmente es un guardia golpeándote y asotandote hasta que le das lo que te estaba pidiendo. 
+»Y yo me acuerdo una vez como yo le decía que el reloj era de mi abuela y... y... —Gesticula con las manos como buscado una respuesta— Me acuerdo como él decía: "¡Todos saben que los Gnomos no tienen abuelas estúpido!".
+— Luego de pensarlo un poco te pregunta —  ¿Esto no va a ser así verdad?
