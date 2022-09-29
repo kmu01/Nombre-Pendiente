@@ -108,5 +108,10 @@ Perfecto, Alexander te responde lo siguiente:
 — Luego de pensarlo un poco te pregunta —  ¿Esto no va a ser así verdad?
 
 --- 
-Luego de que me diera esa respuesta, le dijo que no responde mi pregunta, aunque ya asumia que no tenia mucho que decirme a respecto. Le aseguro que no va a ser asi puesto que buscamos realizar un marco legal justo. 
+
+Luego de que me diera esa respuesta, le digo que no responde mi pregunta, aunque ya asumia que no tenia mucho que decirme al respecto. Le aseguro que no va a ser asi puesto que buscamos realizar un marco legal justo.
 Con esto si te parece cerramos la accion. 
+
+---
+
+Okey si te parece lo roleamos por voz.
