@@ -115,3 +115,5 @@ Con esto si te parece cerramos la accion.
 ---
 
 Okey si te parece lo roleamos por voz.
+---
+Que  queda por rolear?
