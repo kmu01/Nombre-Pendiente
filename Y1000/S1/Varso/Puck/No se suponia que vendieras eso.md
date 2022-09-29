@@ -88,4 +88,4 @@ No se que tan presente va a estar Varso pero por mi bien
 
 ---
 Si no es escribo nada, no tengo nada más que decir, no me esperes. 
-Y no, esto no va a sentar las bases de nuestro sistema, no hay leyes reales ni nadie que sepa  diseñar nuevas, esto es meramente temporal. 
+Y no, esto no va a sentar las bases de nuestro sistema, no hay leyes reales ni nadie que sepa diseñar nuevas, esto es meramente temporal.
