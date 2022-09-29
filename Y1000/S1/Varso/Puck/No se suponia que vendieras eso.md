@@ -106,3 +106,7 @@ Perfecto, Alexander te responde lo siguiente:
 »Y yo me acuerdo una vez como yo le decía que el reloj era de mi abuela y... y... —Gesticula con las manos como buscado una respuesta— Me acuerdo como él decía: "¡Todos saben que los Gnomos no tienen abuelas estúpido!".
 
 — Luego de pensarlo un poco te pregunta —  ¿Esto no va a ser así verdad?
+
+--- 
+Luego de que me diera esa respuesta, le dijo que no responde mi pregunta, aunque ya asumia que no tenia mucho que decirme a respecto. Le aseguro que no va a ser asi puesto que buscamos realizar un marco legal justo. 
+Con esto si te parece cerramos la accion. 
