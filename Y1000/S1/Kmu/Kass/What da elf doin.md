@@ -7,3 +7,7 @@ Ah y obviamente para saber que traman, por que tiene entendido que cualquier mov
 ---
 
 Perfecto, unas preguntas, ¿[Kass](Kass.md) va a ir sola?, ¿qué son los "estudios" que tienen?, ¿va a llevar algo en el viaje?
+
+---
+
+Por estudios me refiero a las recetas que mencioné en el evento anterior, voy sola, llevo mi equipo de toda la vida.
