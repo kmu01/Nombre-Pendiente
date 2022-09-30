@@ -11,3 +11,7 @@ Perfecto, unas preguntas, ¿[Kass](Kass.md) va a ir sola?, ¿qué son los "estud
 ---
 
 Por estudios me refiero a las recetas que mencioné en el evento anterior, voy sola, llevo mi equipo de toda la vida.
+
+---
+
+Perfecto, si te parece resolvemos esto después de que resolvamos [¿Cálida bienvenida!](¿Cálida%20bienvenida!.md)

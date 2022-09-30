@@ -9,3 +9,7 @@ No tenemos tiempo para esto.
 Este martillo esta hecho para combatir contra dragones.
 No para hacer tachos de basura.
 Esto es una amenaza.
+
+---
+
+Si les parece me gustaría jugar esta escena este viernes

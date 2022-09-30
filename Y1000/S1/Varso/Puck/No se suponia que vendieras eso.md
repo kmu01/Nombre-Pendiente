@@ -130,3 +130,7 @@ Todo el juicio
 ---
 
 sure 
+
+---
+
+El censo realizado en este evento genera el evento [Cómo que falta alguien](../../!EVENTOS/Cómo%20que%20falta%20alguien.md)
