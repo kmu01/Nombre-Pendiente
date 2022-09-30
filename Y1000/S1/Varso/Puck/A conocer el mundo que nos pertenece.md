@@ -1,0 +1,4 @@
+Llevamos un mes desde que él experimentó Nova Spes existe, y hasta ahora hemos realizado bastante progreso.. Más está claro que los recursos son escasos y nuestra mano de obra está bastante ocupada entre los diferentes proyectos. 
+Para conocer mejor y tomar cuenta de todo lo que nos falta, [Puck](Puck.md) emprende un recorrido por nuestra zona de control. 
+Doy un paseo por la aldea, conociendo a nuestra población, a los diferentes [Warforgeds](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) ciudadanos y al resto de nuestras personas, saludándolos y a veces preguntándoles sobre su vida en este lugar, si hay algo que les interesaría ver a futuro, entre otras preguntas del estilo. Visito la futura plantación de caña y observo si las plantas están creciendo como deberían.
+Visito a Martín y le pregunto sobre como están sus hombres, como es la vida en este lugar y tal. 

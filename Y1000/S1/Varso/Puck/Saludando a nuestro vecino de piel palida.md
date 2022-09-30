@@ -1,0 +1,1 @@
+En uno de estos días envió a un mensajero al castillo de Marco Aurelio, le aviso que uno de estos días me gustaría ir a visitarlo para que me cuente sobre estos microchips y a hablar de temas varios, como la mazmorra y tal, una visita bastante tranquila, si es que claro esta tiene tiempo para tales cuestiones.
