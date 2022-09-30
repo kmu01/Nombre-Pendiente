@@ -14,9 +14,6 @@ Paso un par de días preguntándole a los warforgeds si sintieron a alguien real
 Extracto de como pregunto:
 —Heyy, amigos... ustedes han estado sintiendo algo raro últimamentee.. Ya saben, como si alguien estuviera casteando— doy un codazo leve al aire haciendo una mueca— ya saben que, magia.
 
-<<<<<<< HEAD
-Me interesa saber si ese lugar es lo suficientemente oculto como para que luego pueda invitar a otros magos ahi para que ellos puedan practicar o realizar actividades arcanas, personas como [Martín](../../!EVENTOS/NPC´s/Martín.md) y Esk podrian estar interesados
-=======
 Me interesa saber si ese lugar es lo suficientemente oculto como para que luego pueda invitar a otros magos ahi para que ellos puedan practicar o realizar actividades arcanas, personas como [Martín](../../!EVENTOS/NPC´s/Martín.md) y [[Esk]] podrian estar interesados.
 
 ---
@@ -28,4 +25,3 @@ La mayoría de los [Warforgeds](../../../../Nova%20Spes/Recursos%20especiales%20
 »Si estás hablando de lo que hiciste hace unos días. Se nota, la mayoría no te lo van a decir, pero lo sabemos.
 
 »No te preocupes, no nos molesta demasiado, pensamos que seguro que tenés tus razones y lo estás haciendo para el bien de todos. —Y luego agrega— Mientras no lo hagas por aquí cerca creo que podremos controlarlo, pero por favor no tientes a la suerte.
->>>>>>> origin/main
