@@ -14,4 +14,4 @@ Paso un par de días preguntándole a los warforgeds si sintieron a alguien real
 Extracto de como pregunto:
 —Heyy, amigos... ustedes han estado sintiendo algo raro últimamentee.. Ya saben, como si alguien estuviera casteando— doy un codazo leve al aire haciendo una mueca— ya saben que, magia.
 
-Me interesa saber si ese lugar es lo suficientemente oculto como para que luego pueda invitar a otros magos ahi para que ellos puedan practicar o realizar actividades arcanas, personas como Martir y Esk podrian estar interesados.
+Me interesa saber si ese lugar es lo suficientemente oculto como para que luego pueda invitar a otros magos ahi para que ellos puedan practicar o realizar actividades arcanas, personas como [Martín](../../!EVENTOS/NPC´s/Martín.md) y Esk podrian estar interesados
