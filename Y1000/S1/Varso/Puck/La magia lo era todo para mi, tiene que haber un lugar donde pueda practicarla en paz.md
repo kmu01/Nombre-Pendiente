@@ -13,3 +13,5 @@ Al cabo de unas horas, antes de que el sol empiece a caer, me dirijo hacia la al
 Paso un par de días preguntándole a los warforgeds si sintieron a alguien realizando magia, disimuladamente 
 Extracto de como pregunto:
 —Heyy, amigos... ustedes han estado sintiendo algo raro últimamentee.. Ya saben, como si alguien estuviera casteando— doy un codazo leve al aire haciendo una mueca— ya saben que, magia.
+
+Me interesa saber si ese lugar es lo suficientemente oculto como para que luego pueda invitar a otros magos ahi para que ellos puedan practicar o realizar actividades arcanas, personas como Martir y Esk podrian estar interesados.
