@@ -4,6 +4,8 @@ Entiendo que el tiene cierta autoridad entre ellos, por lo tanto le recuerdo que
 
 Aun así, si se niegan a aprender por favor que les deje claro que al siguiente que vea abusando de cualquier forma a alguno de mis estudiantes le voy a recordar lo insignificante que es.
 
-Ese martillo esta hecho para combatir contra dragones.
+El objetivo es algún día detener el fin del mundo.
+No tenemos tiempo para esto.
+Este martillo esta hecho para combatir contra dragones.
 No para hacer tachos de basura.
 Esto es una amenaza.
