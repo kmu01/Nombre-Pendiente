@@ -1,1 +1,0 @@
-Tomare parte de las acciones del mes para instruir al club
