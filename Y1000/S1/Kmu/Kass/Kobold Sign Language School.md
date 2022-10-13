@@ -13,7 +13,7 @@ También observaste como estas criaturas de metal son bastante más inteligentes
 
 Gracias a estas conversaciones lográs distinguir que no son un grupo tan parejo como parecían en un primer momento, es más, parece que la única cosa que comparten todos sus individuos es un odio a la magia instintivo y un deseo llameante de salvar al telar.
 
-También notás como, lo que antes era una sociedad totalmente desorganizada comienza a tomar forma, y es una forma piramidal. Esto está generando incertidumbre dentro de la comunidad y acuden hacia vos tanto como hacia [Kurr](../../Cwolf/Kurr/Kurr.md) como guia. **(-1 Estabilidad)**
+También notás como, lo que antes era una sociedad totalmente desorganizada comienza a tomar forma, y es una forma piramidal. Esto está generando incertidumbre dentro de la comunidad y acuden hacia vos tanto como hacia [Kurr](../../Cwolf/Kurr/Mes%201/Kurr.md) como guia. **(-1 Estabilidad)**
 
 ---
 
