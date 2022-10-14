@@ -64,7 +64,7 @@ Ves al sol bajar lentamente por el horizonte mientras esperás que algo pase, tu
 
 ---
 
-Me retiro, alzandándome con mis alas. Le pido a mi familiar que regrese con el joven Derek, el cual ahora sé su ubicación, por lo que hago un ligero acercamiento para dejarle libre acceso.
+Me retiro, alzandándome con mis alas. Le pido a mi familiar que regrese con el joven Darek, el cual ahora sé su ubicación, por lo que hago un ligero acercamiento para dejarle libre acceso.
 
 Siendo que ya ha recorrido conmigo las tierras del reino vecino, espero que sepan distinguir su particular pelaje, cosa de no causarle ningún daño. 
 
