@@ -8,5 +8,5 @@ Los soldados de Bonfuerte nos han informado que Marco Aurelio ha decidido irse a
 
 [Puck](../Varso/Puck/Puck.md) se presentara ante su nuevo vecino.
 
-[Kurr](../Cwolf/Kurr/Kurr.md) va ir a robar plantas
+[Kurr](../Cwolf/Kurr/Mes%201/Kurr.md) va ir a robar plantas
 
