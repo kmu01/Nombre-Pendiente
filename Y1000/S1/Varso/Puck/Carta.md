@@ -1,0 +1,1 @@
+Un día, cuando Puck se despierte, va a descubrir en su posesión un trozo de papel que dice: "Atende a tu amigo que esta solo y aburrido", junto a una carta roja con prolija prosa que dice "¿No serás Puck, no? La puerta esta abierta, te envié una carta pero no se si te llegó"
