@@ -13,3 +13,7 @@ No se usar herramientas de ladrón, así que no me voy a meter a donde no llegue
 --- 
 
 Si te parece vamos a ver que hacen todos en la primer semanita y luego de eso te respondo bien qué pasa
+
+--- 
+
+Esto se acaba de resolver.
