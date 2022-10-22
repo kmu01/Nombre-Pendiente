@@ -1,10 +1,10 @@
-Aprovechando [Saludar al nuevo vecino](../../!EVENTOS/Saludar%20al%20nuevo%20vecino.md) [Kurr](Kurr.md) va a tomar una muestra de los cultivos para hacer una réplica de los mismos y poder plantar alimentos en la próxima temporada, para ello va a usar sus amplios conocimientos arcanos. Y sus habilidades de "habla" para organizar a la armada de [Warforgeds](../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) en la misión de generarlos cultivos.
+Aprovechando [Saludar al nuevo vecino](../../../!EVENTOS/Saludar%20al%20nuevo%20vecino.md) [Kurr](Kurr.md) va a tomar una muestra de los cultivos para hacer una réplica de los mismos y poder plantar alimentos en la próxima temporada, para ello va a usar sus amplios conocimientos arcanos. Y sus habilidades de "habla" para organizar a la armada de [Warforgeds](../../../../../Nova%20Spes/Recursos%20especiales%20y%20Assets%20del%20reino/Warforgeds.md) en la misión de generarlos cultivos.
 
 ---
 
 Estaría bueno que especificaras qué experimentos plantas vas a hacer sobre las plantas.
 
-Perfecto, este evento lo resolvemos luego de que se rolee [Saludar al nuevo vecino](../../!EVENTOS/Saludar%20al%20nuevo%20vecino.md)
+Perfecto, este evento lo resolvemos luego de que se rolee [Saludar al nuevo vecino](../../../!EVENTOS/Saludar%20al%20nuevo%20vecino.md)
 
 ---
 Primero un análisis fenotípico, longitud de planta, cantidad de frutos, color de la planta y si no existen otras características taxonómicas relevantes. Empezar a resguardar un historial de semillas para hacer experimentación genética sobre las plantas
