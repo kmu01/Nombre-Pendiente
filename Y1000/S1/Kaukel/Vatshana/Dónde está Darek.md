@@ -25,12 +25,16 @@ Una vez el soldado toma distancia, si es que no ocurre o solicita nada que no ha
 
 ---
 
-Varso here, si es posible que esa carta nos lllege cerca del final del mes, lo agradeceria, ya que me da una excusa para invitar a vatshana a la reunion mensual del mes 3
+_Varso here, si es posible que esa carta nos lllege cerca del final del mes, lo agradeceria, ya que me da una excusa para invitar a vatshana a la reunion mensual del mes 3_
 
 ---
 
-Gab here, ¿qué problema temporal? Derek vuelve dos días después de que mandás la carta.
+_Gab here, ¿qué problema temporal? Derek vuelve dos días después de que mandás la carta._
 
 ---
 
 _Yo voy a ir a hablar con Kass al otro día de haber mandado la carta, más o menos, ya que me mandó la carta par hablar de comerciar papas, pero esa partida no se hizo nunca. Así que es una forma más o menos simple de ordenar los eventos, cosa que ocurra en tres o cuatro días diferentes para no hacer la carta de Schrödinger._
+
+---
+
+_Entonces el órden de eventos queda de la siguiente manera: Vos mandás la carta a Derek, Kass te manda la carta a vos, vos vas a comerciar papas, Derek vuelve.
