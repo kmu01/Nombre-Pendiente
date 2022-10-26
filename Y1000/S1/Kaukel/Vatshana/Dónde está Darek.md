@@ -22,3 +22,7 @@ Salgo a recibirlo, mientras me comunico mentalmente con el forjado, agradeciendo
 > Han llegado a mis oídos rumores que están planeando comenzar las expediciones solicitadas por Marco Aurelio. Espero podamos coordinar un plan de acción antes de comenzar. Si bien ya he tenido un intercambio parcial, querría estar al tanto en conjunto al resto sobre como proceder.
 
 Una vez el soldado toma distancia, si es que no ocurre o solicita nada que no hayamos brindado con nuestra hospitalidad, procedo a curar con magia a mi temerario explorador.
+
+---
+
+
