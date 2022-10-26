@@ -5,7 +5,7 @@ El dragón camina con decisión hacia la casa de [Alexander](../../!EVENTOS/NPC�
 Le informa también que vamos a requerir un cargamento de comida para 300 personas, le encomienda de realizar un viaje hacia las tierras Halfling en busca de grano
 me gasto 1 RP en realizar esto.
 
-[Se necesitan más alimentos.](../../Kmu/Kass/Se%20necesitan%20mas%20alimentos..md)
+[Se necesitan más alimentos.](../../Kmu/Kass/Mes%201/Se%20necesitan%20mas%20alimentos..md)
 
 ---
 

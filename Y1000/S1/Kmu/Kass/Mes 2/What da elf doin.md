@@ -14,7 +14,7 @@ Por estudios me refiero a las recetas que mencioné en el evento anterior, voy s
 
 ---
 
-Perfecto, si te parece resolvemos esto después de que resolvamos [¿Cálida bienvenida!](¿Cálida%20bienvenida!.md)
+Perfecto, si te parece resolvemos esto después de que resolvamos [¿Cálida bienvenida!](Mes%202/¿Cálida%20bienvenida!.md)
 
 ---
 
