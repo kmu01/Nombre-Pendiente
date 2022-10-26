@@ -1,3 +1,4 @@
+
 Un día, cuando Puck se despierte, va a descubrir en su posesión un trozo de papel que dice: "Atende a tu amigo que esta solo y aburrido", junto a una carta roja con prolija prosa que dice "¿No serás Puck, no? La puerta esta abierta, te envié una carta pero no se si te llegó"
 
 ---
@@ -5,7 +6,7 @@ le respondo con una carta:
 
 	A mi estimado vecino.
 Efectivamente recibi tu carta mas en los ultimos dias las responsabilidades diaras me dejaron con poco tiempo para revisar mi correspondencia, si me permites respondertela ahora
-Cuándo ibas a venirr?
+¿Cuándo ibas a venirr?
 - me gustaria visitarte cuanto antes, de ser posible esta semana, mañana te parece bien? 
 
 ¿Qué prreferrís que le ORDENE a Lucas que haga para la cena?
