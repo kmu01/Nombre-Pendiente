@@ -1,0 +1,1 @@
+Puck le va a pedir a Martin que investigue quien quemo la biblioteca, como siempre, le dice que no puede castear hechizos, no cerca de la aldea al menos. 
