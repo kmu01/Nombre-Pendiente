@@ -36,3 +36,6 @@ Te responde con una carta:
 Perrfecto, entonces nos vemos mañana.
 Te estarre esperrando.
 
+---
+
+el resto se roleara por voz.
