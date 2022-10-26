@@ -24,5 +24,5 @@ Salgo a recibirlo, mientras me comunico mentalmente con el forjado, agradeciendo
 Una vez el soldado toma distancia, si es que no ocurre o solicita nada que no hayamos brindado con nuestra hospitalidad, procedo a curar con magia a mi temerario explorador.
 
 ---
-Varso here, si es posible que esa carta nos lllege cerca del fi
+Varso here, si es posible que esa carta nos lllege cerca del final del mes, lo agradeceria, ya que me da una excusa para invitar a vatshana a la reunion mensual del mes 3
 
