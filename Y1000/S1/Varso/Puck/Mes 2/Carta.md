@@ -15,13 +15,13 @@ Cuándo ibas a venirr?
 - Hay bastantes cosas de las que tendriamos que hablar al respecto, solo digamos que unos cuantos conflicos internos entre mis segundos al mando... dejando de lado eso  las cosas estan yendo bien. 
 
 ¿Tenés tiempo el sábado parra ir a pescarr?, traté de irr con Lucas, perro no es lo mismo.
-Si todavia sigue abierta la oferta, si me encantaria. 
+- Si todavia sigue abierta la oferta, si me encantaria. 
 
 ¿Te parrece que salió bien la cena de la otrra vez?
-Salio muy bien! 
+- Salio muy bien! 
 
 ¿Tenés crritica constrructiva?
-como dije, la cena salio muy bien, no obstante claro esta que el castillo requiere una mano de limpieza profunda, yo estoy interesado en ayudarte con ese trabajo. recuerdas lo que hablamos la vez pasada? 
+- como dije, la cena salio muy bien, no obstante claro esta que el castillo requiere una mano de limpieza profunda, yo estoy interesado en ayudarte con ese trabajo. recuerdas lo que hablamos la vez pasada? 
 
 
 terminando de responder a las preguntas planteadas la vez pasada, pido una vez mas disculpas por mi tardanza y reafirmo mi interes en que nos reunamos cuanto antes, de ser posible, me gustaria que hablemos sobre esos microchips que mencionaste la vez pasada y sobre las posibles alianzas que podemos realizar.
