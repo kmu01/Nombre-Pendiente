@@ -10,4 +10,4 @@ Luego de un tiempo, ya que el joven [Darek](../../!EVENTOS/NPC´s/Darek.md) no a
 
 ---
 
-[Darek](../../!EVENTOS/NPC´s/Darek.md) vuelve un par de días después acompañado por uno de los guardias del pueblo vecino, un par de cabestrillos y muchas vendas.
+[Darek](../../!EVENTOS/NPC´s/Darek.md) vuelve un par de días después acompañado por: uno de los guardias del pueblo vecino, un par de cabestrillos y muchas vendas.
