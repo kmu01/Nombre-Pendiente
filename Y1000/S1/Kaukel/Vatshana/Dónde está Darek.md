@@ -37,4 +37,4 @@ _Yo voy a ir a hablar con Kass al otro día de haber mandado la carta, más o me
 
 ---
 
-_Entonces el orden de eventos queda de la siguiente manera: Vos mandás la carta a Derek, Kass te manda la carta a vos, vos vas a comerciar papas, Derek vuelve.
+_Entonces el orden de eventos queda de la siguiente manera: Vos mandás la carta a Derek, Kass te manda la carta a vos, vos vas a comerciar papas, Derek vuelve._
