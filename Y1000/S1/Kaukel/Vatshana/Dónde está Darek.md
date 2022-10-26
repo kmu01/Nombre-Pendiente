@@ -26,3 +26,5 @@ Una vez el soldado toma distancia, si es que no ocurre o solicita nada que no ha
 ---
 Varso here, si es posible que esa carta nos lllege cerca del final del mes, lo agradeceria, ya que me da una excusa para invitar a vatshana a la reunion mensual del mes 3
 
+---
+Gab here, ¿qué problema temporal? Derek vuelve dos días después de que mandás la carta.
