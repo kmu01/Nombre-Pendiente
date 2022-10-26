@@ -27,3 +27,11 @@ como dije, la cena salio muy bien, no obstante claro esta que el castillo requie
 terminando de responder a las preguntas planteadas la vez pasada, pido una vez mas disculpas por mi tardanza y reafirmo mi interes en que nos reunamos cuanto antes, de ser posible, me gustaria que hablemos sobre esos microchips que mencionaste la vez pasada y sobre las posibles alianzas que podemos realizar.
 
 busco entre los alrededros a la avestruz que menciona y si esta por ahi, le hago el paso maldito para que envie la carta
+
+---
+
+Te responde con una carta:
+
+Perrfecto, entonces nos vemos mañana.
+Te estarre esperrando.
+
