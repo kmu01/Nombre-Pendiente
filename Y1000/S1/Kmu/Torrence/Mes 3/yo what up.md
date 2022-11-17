@@ -1,0 +1,3 @@
+Torrence oyó el rumor de que en el sur había gente pequeña, Y EN EFECTO, ESTAS PEQUEÑAS CRIATURAS SON TAN TORPES COMO ESPERABA, Y ADEMÁS PARECEN PERROS ADORABLES CON ESCAMAS MIRALOS QUE GANAS DE APRETARLOS. Además eligieron a uno de lider, claro, como en casa cuando eligieron una cabra de alcalde.
+
+Aunque parece que el unico ejercicio que hace la gente aca es ir con armaduras impracticas a todos lados, y además no existe un lugar para tomar, LO CUAL ES INACEPTABLE Y DEBERÁ SER CORREGIDO INMEDIATAMENTE.

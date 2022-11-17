@@ -1,0 +1,1 @@
+Puesto a que posiblemente va a requerir de sus servicios, Kass va a intentar conocer al goblin que estableció como casa el avión, y es quien se asume de poder controlar dicha bestia de metal.

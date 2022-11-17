@@ -1,0 +1,1 @@
+Se gastó un punto de recursos para la construcción de comunicadores a distancia.
