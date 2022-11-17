@@ -10,3 +10,6 @@ Los soldados de Bonfuerte nos han informado que Marco Aurelio ha decidido irse a
 
 [Kurr](../Cwolf/Kurr/Mes%201/Kurr.md) va ir a robar plantas
 
+---
+
+Considero este evento terminado.
