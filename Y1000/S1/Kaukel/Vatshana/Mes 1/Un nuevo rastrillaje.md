@@ -4,15 +4,15 @@ Tal vez podría dar una segunda ronda a nuestro alrededor, quizá alguna caída 
 
 ---
 
-Envío a [Darek](../../!EVENTOS/NPC´s/Darek.md) a investigar las montañas circundantes nuevamente, pero esta vez pido que se arrime un poco a las grietas en busca de ruido de agua. Si lo requiere, [Banitari](../../!EVENTOS/NPC´s/Banitari.md) estará dispuesto a dar su ayuda.
+Envío a [Darek](../../../!EVENTOS/NPC´s/Darek.md) a investigar las montañas circundantes nuevamente, pero esta vez pido que se arrime un poco a las grietas en busca de ruido de agua. Si lo requiere, [Banitari](../../../!EVENTOS/NPC´s/Banitari.md) estará dispuesto a dar su ayuda.
 
 ---
 
-Las montañas son traicioneramente peligrosas, aun así, sabiendo lo que está en juego, [Darek](../../!EVENTOS/NPC´s/Darek.md) se arriesga nuevamente en ellas, quizás un poco más emocionado de lo que debería, ahora con la ayuda de [Banitari](../../!EVENTOS/NPC´s/Banitari.md).
+Las montañas son traicioneramente peligrosas, aun así, sabiendo lo que está en juego, [Darek](../../../!EVENTOS/NPC´s/Darek.md) se arriesga nuevamente en ellas, quizás un poco más emocionado de lo que debería, ahora con la ayuda de [Banitari](../../../!EVENTOS/NPC´s/Banitari.md).
 
-Dos días después vuelve al campamento [Banitari](../../!EVENTOS/NPC´s/Banitari.md), pero no hay ni rastros de [Darek](../../!EVENTOS/NPC´s/Darek.md).
+Dos días después vuelve al campamento [Banitari](../../../!EVENTOS/NPC´s/Banitari.md), pero no hay ni rastros de [Darek](../../../!EVENTOS/NPC´s/Darek.md).
 
-[Banitari](../../!EVENTOS/NPC´s/Banitari.md) tiene en la boca un pequeño palo de no más de una mano abierta de largo y una uña de ancho, el palo tiene atado 5 cuerdas a distancias regulares.
+[Banitari](../../../!EVENTOS/NPC´s/Banitari.md) tiene en la boca un pequeño palo de no más de una mano abierta de largo y una uña de ancho, el palo tiene atado 5 cuerdas a distancias regulares.
 
 Al lado de cada y cuerda hay una inicial, S, E, C, A, M.
 
@@ -32,7 +32,7 @@ También es de notar, como no solo las cuerdas que se atan son diferentes para c
 
 ---
 
-Antes de ponerme a analizar los nudos pido a [Banitari](../../!EVENTOS/NPC´s/Banitari.md) que me hable sobre como estaba afrontando la misión nuestro explorador. El hecho que se esté tomando tanto tiempo me provoca un cierto temor, más por su joven edad.
+Antes de ponerme a analizar los nudos pido a [Banitari](../../../!EVENTOS/NPC´s/Banitari.md) que me hable sobre como estaba afrontando la misión nuestro explorador. El hecho que se esté tomando tanto tiempo me provoca un cierto temor, más por su joven edad.
 
 Cargándome el gato sobre mi cuerpo, muto rápidamente, estirando mi cuello y expandiendo mi espalda, que la bendición de la naturaleza apremie mi cuerpo y me deje alzarme tomando la forma de un [águila de considerables dimensiones](https://5e.tools/bestiary.html#giant%20eagle_mm), con un plumaje más oscuro de lo habitual y con motas blancas imitando una estela estrellada que conozco pero nunca he visto.
 
@@ -46,7 +46,7 @@ Al afinar tus sentidos detectas un olor a pelo mojado y, mientras tus ojos se aj
 
 Y, de repente, mientras estás preparándote para tomar tu siguiente decisión, escuchas un rugido que parece venir desde el mismísimo centro de la tierra. Parece que, lo que sea que esté ahí abajo, sabe que tiene nuevos visitantes y no aparenta demasiado hospitalario.
 
-En caso de que lo necesites, [Banitari](../../!EVENTOS/NPC´s/Banitari.md) te informa que [Darek](../../!EVENTOS/NPC´s/Darek.md) se adentró dentro de la cueva, pero, ya no quedan rastros del chico.
+En caso de que lo necesites, [Banitari](../../../!EVENTOS/NPC´s/Banitari.md) te informa que [Darek](../../../!EVENTOS/NPC´s/Darek.md) se adentró dentro de la cueva, pero, ya no quedan rastros del chico.
 
 En caso de que intentes identificar su posición de forma mágica, el joven se encuentra en el poblado vecino de [Nova Spes](../../../../../Nova%20Spes/informacion%20del%20reino.md)
 

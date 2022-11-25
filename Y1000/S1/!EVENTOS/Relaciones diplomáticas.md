@@ -2,7 +2,7 @@ Luego de una comunicación relativamente ¿agresiva? hacia el pueblo vecino, una
 
 ---
 
-[Vatshana se aproxima a paso tranquilo](../Kaukel/Vatshana/Aquí%20no%20reinarán%20máquinas.md).
+[Vatshana se aproxima a paso tranquilo](../Kaukel/Vatshana/Mes%201/Aquí%20no%20reinarán%20máquinas.md).
 
 ---
 
