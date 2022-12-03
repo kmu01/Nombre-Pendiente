@@ -1,0 +1,1 @@
+Kass se prepara para recibir a la cantidad de magnitudes indeterminadas de gente nueva.
