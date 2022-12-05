@@ -1,0 +1,1 @@
+Puck se comunica con bradley  y le pide que use a los harper para que nos brinden informacion sobre como se encuentra el estado de ciudadela
